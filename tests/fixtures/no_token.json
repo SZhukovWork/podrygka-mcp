@@ -1,0 +1,11 @@
+{
+ "status": 403,
+ "content_type": "application/problem+json",
+ "body": {
+  "type": "AuthTokenMissingError",
+  "status": 403,
+  "title": "Токен не передан",
+  "detail": "Отсутствует заголовок Authorization",
+  "instance": "/api/v3/catalog/product/242804"
+ }
+}

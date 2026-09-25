@@ -1,0 +1,21 @@
+{
+ "_note": "getCity {search: Березовский} — два города",
+ "jsonrpc": "2.0",
+ "result": [
+  {
+   "city_name": "Березовский",
+   "region": "Свердловская область",
+   "fias": "adf5df2b-2c2e-45a9-b971-05550353cf43",
+   "region_fias": "92b30014-4d52-4e2e-892d-928142b924bf",
+   "id": "209221"
+  },
+  {
+   "city_name": "Березовский",
+   "region": "Кемеровская область",
+   "fias": "ef6bac92-b712-42ba-942b-515b36b9a32c",
+   "region_fias": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30",
+   "id": "224536"
+  }
+ ],
+ "id": "x-1"
+}

@@ -1,0 +1,80 @@
+{
+ "_note": "то же, merge_in_group=false: у тона 601 своих отзывов 0",
+ "context": {
+  "name": "Помада для губ LOREAL COLOR RICHE NUDE INTENSE",
+  "url": "https://www.podrygka.ru/catalog/makiyazh/guby/pomada/242804-pomada-dlya-gub-loreal-color-riche-nude-intense-ton-601-worth-it/",
+  "external_id": "1346722",
+  "alias": "242804",
+  "group_id": "1365952",
+  "category_name": "Помада",
+  "brand_name": "LOREAL",
+  "picture_url": "https://www.podrygka.ru/upload/iblock/c1c/c1c92f3fa23632fe45e77cbf8aba6d22.jpg",
+  "available": true,
+  "reviews_count": 0,
+  "questions_count": 0,
+  "published_group_reviews_count": 29,
+  "published_group_questions_count": 0,
+  "published_photos_count": 0,
+  "published_kinescope_assets_count": 0,
+  "published_mux_assets_count": 0,
+  "published_group_photos_count": 0,
+  "published_group_kinescope_assets_count": 0,
+  "published_group_mux_assets_count": 0,
+  "rating": 4.5,
+  "recommended": 33.33333333333333
+ },
+ "items": [],
+ "meta": {
+  "page": 1,
+  "per_page": 5,
+  "total_pages": 0,
+  "total_count": 0
+ },
+ "aggs": {
+  "rating": {
+   "type": "terms",
+   "buckets": [
+    {
+     "key": 1,
+     "doc_count": 0
+    },
+    {
+     "key": 2,
+     "doc_count": 0
+    },
+    {
+     "key": 3,
+     "doc_count": 0
+    },
+    {
+     "key": 4,
+     "doc_count": 0
+    },
+    {
+     "key": 5,
+     "doc_count": 0
+    }
+   ],
+   "name": "rating"
+  },
+  "recommended": {
+   "type": "terms",
+   "buckets": [],
+   "name": "recommended"
+  },
+  "rating_details": {
+   "doc_count": 0,
+   "by_name": {
+    "buckets": []
+   },
+   "name": "rating_details"
+  },
+  "author_details": {
+   "doc_count": 0,
+   "by_name": {
+    "buckets": []
+   },
+   "name": "author_details"
+  }
+ }
+}

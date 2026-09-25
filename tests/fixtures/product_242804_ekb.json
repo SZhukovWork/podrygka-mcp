@@ -1,0 +1,641 @@
+{
+ "_note": "GET /api/v3/catalog/product/242804, 2026-09-25 12:30–13:40 МСК (после утреннего окна), регион Свердловская обл.. Страница: 801/1214 ₽, 4.5 · 29 отзывов",
+ "product": {
+  "article": "242804",
+  "name": "Помада для губ `LOREAL` COLOR RICHE NUDE INTENSE тон 601 Worth it",
+  "description": "Нюд, у которого есть характер. Коллекция НЮДОВЫХ ПОМАД от COLOR RICHE - ода своей аутентичности и главному современному тренду - нюдовому образу.\n8 трендовых нюдовых оттенков для каждого подтона губ. Губная помада Колор Риш обогащена чистым аргановым маслом в составе для питания и увлажнения. Новый цветочно-фруктовый аромат с пионом, мускусом и личи. Изысканный футляр цвета золота и cтик в форме женственного силуэта - для самого чувственного нанесения. Найди свой идеальный нюд и покажи себя в откровенном оттенке Color Riche Les Nus, который раскроет настоящую тебя. Нюдовая помада от L'Oreal Paris - смелое решение для образа на каждый день! Рекомендуем использовать с карандашом для губ Color Riche от Л'Ореаль Париж, который поможет создать идеальный контур.",
+  "url": "/catalog/makiyazh/guby/pomada/242804-pomada-dlya-gub-loreal-color-riche-nude-intense-ton-601-worth-it/",
+  "sort": 2,
+  "favorite": false,
+  "bitrixProductId": 1346722,
+  "bitrixSection": {
+   "id": 953,
+   "url": "/catalog/category_makiyazh-guby-pomada/",
+   "name": "Помада",
+   "code": "pomada",
+   "namePath": "Макияж/Губы/Помада"
+  },
+  "frisbuyId": 1365952,
+  "pricing": {
+   "basePrice": 1214,
+   "totalPrice": 801,
+   "discountTotal": 413,
+   "discountPercent": 34,
+   "priceText": ""
+  },
+  "reviews": {
+   "rating": 4.5,
+   "amount": 29
+  },
+  "attributes": {
+   "part": {
+    "name": "Область использования",
+    "filterValue": "area_of_use_guby",
+    "value": "Губы",
+    "url": "/catalog/area_of_use_guby/"
+   },
+   "section": [
+    {
+     "name": "Категории",
+     "description": null,
+     "filterValue": "category_makiyazh",
+     "value": "Макияж",
+     "img": "/upload/iblock/791/79184c9df7870950e39b11a7548e652f.png",
+     "url": "/catalog/category_makiyazh/"
+    },
+    {
+     "name": "Категории",
+     "description": null,
+     "filterValue": "category_makiyazh-guby",
+     "value": "Губы",
+     "img": "/upload/iblock/6ba/6ba5cb3ccb93017e99c764cadc790d05.png",
+     "url": "/catalog/category_makiyazh-guby/"
+    },
+    {
+     "name": "Категории",
+     "description": null,
+     "filterValue": "category_makiyazh-guby-pomada",
+     "value": "Помада",
+     "img": "/upload/iblock/f15/f15067f362b760ee1dff96065f2cdf51.png",
+     "url": "/catalog/category_makiyazh-guby-pomada/"
+    },
+    {
+     "name": "Категории",
+     "description": null,
+     "filterValue": "category_korea",
+     "value": "Корея",
+     "img": "/upload/iblock/cd7/cd7c00932d93223e79740f38a1621bfa.png",
+     "url": "/catalog/category_korea/"
+    }
+   ],
+   "skin": {
+    "name": "Тип кожи",
+    "filterValue": "skin_type_vse-tipy-kozhi",
+    "value": "Все типы кожи",
+    "url": "/catalog/skin_type_vse-tipy-kozhi/"
+   },
+   "weight": {
+    "name": "Вес в упаковке, г.",
+    "filterValue": null,
+    "value": "29",
+    "url": null
+   },
+   "height": {
+    "name": "Высота упаковки, мм",
+    "filterValue": null,
+    "value": "77",
+    "url": null
+   },
+   "width": {
+    "name": "Ширина упаковки, мм",
+    "filterValue": null,
+    "value": "20",
+    "url": null
+   },
+   "length": {
+    "name": "Длина упаковки, мм",
+    "filterValue": null,
+    "value": "20",
+    "url": null
+   },
+   "country": {
+    "name": "Страна",
+    "filterValue": "country_france",
+    "value": "Франция",
+    "url": "/catalog/country_france/"
+   },
+   "texture": {
+    "name": "Текстура",
+    "filterValue": "texture_kremoobraznaya",
+    "value": "Кремообразная",
+    "url": "/catalog/texture_kremoobraznaya/"
+   },
+   "composition": {
+    "name": "Состав",
+    "filterValue": null,
+    "value": "DIMETHICONE ● HYDROGENATED POLYISOBUTENE ● POLYETHYLENE ● TRIMETHYL PENTAPHENYL TRISILOXANE ● OCTYLDODECYL NEOPENTANOATE",
+    "url": null
+   },
+   "instruction": {
+    "name": "Способ применения",
+    "filterValue": null,
+    "value": "Начните нанесение от центра верхней губы по дуге купидона, затем двигайтесь по направлению к уголкам и заполните центр г",
+    "url": null
+   },
+   "tone": {
+    "name": "Тон",
+    "filterValue": "tone_242804",
+    "value": "Тон 601, нюдовый",
+    "url": "/catalog/tone_242804/"
+   },
+   "marking": null,
+   "tag": null,
+   "brand": {
+    "name": "Бренд",
+    "filterValue": "brand_loreal",
+    "value": "LOREAL",
+    "url": "/catalog/brand_loreal/"
+   }
+  },
+  "availability": {
+   "available": true,
+   "availableOnline": true,
+   "quantityOnline": 33,
+   "availableOffline": true,
+   "quantityOffline": 28,
+   "remains": 61,
+   "shopsNumber": 10
+  },
+  "marks": [
+   {
+    "url": "/catalog/mark_msk-discount/",
+    "description": "",
+    "name": "Персональная скидка",
+    "title": "-34%",
+    "type": "discount",
+    "img": "",
+    "mobileCode": "msk-personal_discount",
+    "hex": "#FF78B2"
+   },
+   {
+    "url": "/catalog/mark_msk-benefit/",
+    "description": "",
+    "name": "Выгодная цена",
+    "title": null,
+    "type": "benefit",
+    "img": "/upload/medialibrary/shildy/wallet.svg",
+    "mobileCode": "msk-benefit",
+    "hex": "#74C3F7"
+   }
+  ],
+  "promotions": [],
+  "partPaymentPrice": {
+   "sum": 200.25,
+   "monthQuantity": 4
+  },
+  "offers": [
+   {
+    "article": "242803",
+    "name": "Помада для губ `LOREAL` COLOR RICHE NUDE INTENSE тон 570 Worth it intense",
+    "url": "/catalog/makiyazh/guby/pomada/242803-pomada-dlya-gub-loreal-color-riche-nude-intense-ton-570-worth-it-intense/",
+    "bitrixProductId": 1347378,
+    "frisbuyId": 1365952,
+    "pricing": {
+     "basePrice": 1214,
+     "totalPrice": 927,
+     "discountTotal": 287,
+     "discountPercent": 24,
+     "priceText": null
+    },
+    "reviews": {
+     "rating": 4.5,
+     "amount": 29
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": false,
+     "quantityOnline": 0,
+     "availableOffline": true,
+     "quantityOffline": 23,
+     "remains": 23,
+     "shopsNumber": 7
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-discount/",
+      "description": "",
+      "name": "Персональная скидка",
+      "title": "-24%",
+      "type": "discount",
+      "img": "",
+      "mobileCode": "msk-personal_discount",
+      "hex": "#FF78B2"
+     },
+     {
+      "url": "/catalog/mark_msk-benefit/",
+      "description": "",
+      "name": "Выгодная цена",
+      "title": null,
+      "type": "benefit",
+      "img": "/upload/medialibrary/shildy/wallet.svg",
+      "mobileCode": "msk-benefit",
+      "hex": "#74C3F7"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": {
+     "sum": 231.75,
+     "monthQuantity": 4
+    },
+    "attributes": {
+     "tone": {
+      "name": "Тон",
+      "filterValue": "tone_242803",
+      "value": "Тон 570, нюдовый"
+     },
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_loreal",
+      "value": "LOREAL"
+     }
+    }
+   },
+   {
+    "article": "205406",
+    "name": "Помада для губ `LOREAL` COLOR RICHE NUDE INTENSE тон 179 Decadent nude",
+    "url": "/catalog/makiyazh/guby/pomada/205406-pomada-dlya-gub-loreal-color-riche-nude-intense-ton-179-decadent-nude/",
+    "bitrixProductId": 862854,
+    "frisbuyId": 1365952,
+    "pricing": {
+     "basePrice": 1214,
+     "totalPrice": 801,
+     "discountTotal": 413,
+     "discountPercent": 34,
+     "priceText": null
+    },
+    "reviews": {
+     "rating": 4.5,
+     "amount": 29
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": true,
+     "quantityOnline": 52,
+     "availableOffline": true,
+     "quantityOffline": 28,
+     "remains": 80,
+     "shopsNumber": 9
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-discount/",
+      "description": "",
+      "name": "Персональная скидка",
+      "title": "-34%",
+      "type": "discount",
+      "img": "",
+      "mobileCode": "msk-personal_discount",
+      "hex": "#FF78B2"
+     },
+     {
+      "url": "/catalog/mark_msk-benefit/",
+      "description": "",
+      "name": "Выгодная цена",
+      "title": null,
+      "type": "benefit",
+      "img": "/upload/medialibrary/shildy/wallet.svg",
+      "mobileCode": "msk-benefit",
+      "hex": "#74C3F7"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": {
+     "sum": 200.25,
+     "monthQuantity": 4
+    },
+    "attributes": {
+     "tone": {
+      "name": "Тон",
+      "filterValue": "tone_205406",
+      "value": "Тон 179, ДЕКАДЕНТСКИЙ НЮД, коричневый"
+     },
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_loreal",
+      "value": "LOREAL"
+     }
+    }
+   },
+   {
+    "article": "205405",
+    "name": "Помада для губ `LOREAL` COLOR RICHE NUDE INTENSE тон 181 An eccentric nude",
+    "url": "/catalog/makiyazh/guby/pomada/205405-pomada-dlya-gub-loreal-color-riche-nude-intense-ton-181-an-eccentric-nude/",
+    "bitrixProductId": 862942,
+    "frisbuyId": 1365952,
+    "pricing": {
+     "basePrice": 1214,
+     "totalPrice": 801,
+     "discountTotal": 413,
+     "discountPercent": 34,
+     "priceText": null
+    },
+    "reviews": {
+     "rating": 4.5,
+     "amount": 29
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": true,
+     "quantityOnline": 43,
+     "availableOffline": true,
+     "quantityOffline": 28,
+     "remains": 71,
+     "shopsNumber": 10
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-discount/",
+      "description": "",
+      "name": "Персональная скидка",
+      "title": "-34%",
+      "type": "discount",
+      "img": "",
+      "mobileCode": "msk-personal_discount",
+      "hex": "#FF78B2"
+     },
+     {
+      "url": "/catalog/mark_msk-benefit/",
+      "description": "",
+      "name": "Выгодная цена",
+      "title": null,
+      "type": "benefit",
+      "img": "/upload/medialibrary/shildy/wallet.svg",
+      "mobileCode": "msk-benefit",
+      "hex": "#74C3F7"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": {
+     "sum": 200.25,
+     "monthQuantity": 4
+    },
+    "attributes": {
+     "tone": {
+      "name": "Тон",
+      "filterValue": "tone_205405",
+      "value": "Тон 181, ЭКСЦЕНТРИЧНЫЙ НЮД, бежевый"
+     },
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_loreal",
+      "value": "LOREAL"
+     }
+    }
+   },
+   {
+    "article": "205409",
+    "name": "Помада для губ `LOREAL` COLOR RICHE NUDE INTENSE тон 174 Serene nude",
+    "url": "/catalog/makiyazh/guby/pomada/205409-pomada-dlya-gub-loreal-color-riche-nude-intense-ton-174-serene-nude/",
+    "bitrixProductId": 863018,
+    "frisbuyId": 1365952,
+    "pricing": {
+     "basePrice": 1214,
+     "totalPrice": 951,
+     "discountTotal": 263,
+     "discountPercent": 22,
+     "priceText": null
+    },
+    "reviews": {
+     "rating": 4.5,
+     "amount": 29
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": false,
+     "quantityOnline": 0,
+     "availableOffline": true,
+     "quantityOffline": 32,
+     "remains": 32,
+     "shopsNumber": 9
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-discount/",
+      "description": "",
+      "name": "Персональная скидка",
+      "title": "-22%",
+      "type": "discount",
+      "img": "",
+      "mobileCode": "msk-personal_discount",
+      "hex": "#FF78B2"
+     },
+     {
+      "url": "/catalog/mark_msk-benefit/",
+      "description": "",
+      "name": "Выгодная цена",
+      "title": null,
+      "type": "benefit",
+      "img": "/upload/medialibrary/shildy/wallet.svg",
+      "mobileCode": "msk-benefit",
+      "hex": "#74C3F7"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": {
+     "sum": 237.75,
+     "monthQuantity": 4
+    },
+    "attributes": {
+     "tone": {
+      "name": "Тон",
+      "filterValue": "tone_205409",
+      "value": "Тон 174, БЕЗМЯТЕЖНЫЙ НЮД, розовый"
+     },
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_loreal",
+      "value": "LOREAL"
+     }
+    }
+   },
+   {
+    "article": "205410",
+    "name": "Помада для губ `LOREAL` COLOR RICHE NUDE INTENSE тон 173 Bold nude",
+    "url": "/catalog/makiyazh/guby/pomada/205410-pomada-dlya-gub-loreal-color-riche-nude-intense-ton-173-bold-nude/",
+    "bitrixProductId": 863102,
+    "frisbuyId": 1365952,
+    "pricing": {
+     "basePrice": 1214,
+     "totalPrice": 856,
+     "discountTotal": 358,
+     "discountPercent": 29,
+     "priceText": null
+    },
+    "reviews": {
+     "rating": 4.5,
+     "amount": 29
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": true,
+     "quantityOnline": 138,
+     "availableOffline": true,
+     "quantityOffline": 36,
+     "remains": 174,
+     "shopsNumber": 12
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-discount/",
+      "description": "",
+      "name": "Персональная скидка",
+      "title": "-29%",
+      "type": "discount",
+      "img": "",
+      "mobileCode": "msk-personal_discount",
+      "hex": "#FF78B2"
+     },
+     {
+      "url": "/catalog/mark_msk-benefit/",
+      "description": "",
+      "name": "Выгодная цена",
+      "title": null,
+      "type": "benefit",
+      "img": "/upload/medialibrary/shildy/wallet.svg",
+      "mobileCode": "msk-benefit",
+      "hex": "#74C3F7"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": {
+     "sum": 214,
+     "monthQuantity": 4
+    },
+    "attributes": {
+     "tone": {
+      "name": "Тон",
+      "filterValue": "tone_205410",
+      "value": "Тон 173, ДЕРЗКИЙ НЮД"
+     },
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_loreal",
+      "value": "LOREAL"
+     }
+    }
+   },
+   {
+    "article": "205408",
+    "name": "Помада для губ `LOREAL` COLOR RICHE NUDE INTENSE тон 176 Frivolous nude",
+    "url": "/catalog/makiyazh/guby/pomada/205408-pomada-dlya-gub-loreal-color-riche-nude-intense-ton-176-frivolous-nude/",
+    "bitrixProductId": 863106,
+    "frisbuyId": 1365952,
+    "pricing": {
+     "basePrice": 1214,
+     "totalPrice": 801,
+     "discountTotal": 413,
+     "discountPercent": 34,
+     "priceText": null
+    },
+    "reviews": {
+     "rating": 4.5,
+     "amount": 29
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": true,
+     "quantityOnline": 48,
+     "availableOffline": true,
+     "quantityOffline": 40,
+     "remains": 88,
+     "shopsNumber": 11
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-discount/",
+      "description": "",
+      "name": "Персональная скидка",
+      "title": "-34%",
+      "type": "discount",
+      "img": "",
+      "mobileCode": "msk-personal_discount",
+      "hex": "#FF78B2"
+     },
+     {
+      "url": "/catalog/mark_msk-benefit/",
+      "description": "",
+      "name": "Выгодная цена",
+      "title": null,
+      "type": "benefit",
+      "img": "/upload/medialibrary/shildy/wallet.svg",
+      "mobileCode": "msk-benefit",
+      "hex": "#74C3F7"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": {
+     "sum": 200.25,
+     "monthQuantity": 4
+    },
+    "attributes": {
+     "tone": {
+      "name": "Тон",
+      "filterValue": "tone_205408",
+      "value": "Тон 176, Фривольный нюд, коричневый"
+     },
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_loreal",
+      "value": "LOREAL"
+     }
+    }
+   },
+   {
+    "article": "205407",
+    "name": "Помада для губ `LOREAL` COLOR RICHE NUDE INTENSE тон 177 Authentic nude",
+    "url": "/catalog/makiyazh/guby/pomada/205407-pomada-dlya-gub-loreal-color-riche-nude-intense-ton-177-authentic-nude/",
+    "bitrixProductId": 863170,
+    "frisbuyId": 1365952,
+    "pricing": {
+     "basePrice": 1214,
+     "totalPrice": 828,
+     "discountTotal": 386,
+     "discountPercent": 32,
+     "priceText": null
+    },
+    "reviews": {
+     "rating": 4.5,
+     "amount": 29
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": true,
+     "quantityOnline": 44,
+     "availableOffline": true,
+     "quantityOffline": 31,
+     "remains": 75,
+     "shopsNumber": 9
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-discount/",
+      "description": "",
+      "name": "Персональная скидка",
+      "title": "-32%",
+      "type": "discount",
+      "img": "",
+      "mobileCode": "msk-personal_discount",
+      "hex": "#FF78B2"
+     },
+     {
+      "url": "/catalog/mark_msk-benefit/",
+      "description": "",
+      "name": "Выгодная цена",
+      "title": null,
+      "type": "benefit",
+      "img": "/upload/medialibrary/shildy/wallet.svg",
+      "mobileCode": "msk-benefit",
+      "hex": "#74C3F7"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": {
+     "sum": 207,
+     "monthQuantity": 4
+    },
+    "attributes": {
+     "tone": {
+      "name": "Тон",
+      "filterValue": "tone_205407",
+      "value": "Тон 177, АУТЕНТИЧНЫЙ НЮД, розово-коричневый"
+     },
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_loreal",
+      "value": "LOREAL"
+     }
+    }
+   }
+  ]
+ }
+}

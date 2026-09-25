@@ -1,0 +1,734 @@
+{
+ "_note": "листинг акции (gift), первые 4 плитки, 2026-09-25 12:30–13:40 МСК (после утреннего окна), регион Свердловская обл.",
+ "listing": {
+  "offers": [
+   {
+    "article": "162909",
+    "name": "Спрей для укладки волос `KENSUKO` текстурирующий с морской солью 50 мл",
+    "description": "Спрей для укладки волос KENSUKO текстурирующий с морской солью помогает создать ",
+    "url": "/catalog/volosy/ukladka/162909-sprey_dlya_ukladki_volos_kensuko_teksturiruyuschiy_s_morskoy_solyu_50_ml/",
+    "sort": 864,
+    "favorite": false,
+    "bitrixProductId": 341405,
+    "bitrixSection": {
+     "id": 4616,
+     "url": "/catalog/category_volosy-ukladka-sprei/",
+     "name": "Спреи",
+     "code": "sprei",
+     "namePath": "Волосы/Укладка и стайлинг/Спреи"
+    },
+    "frisbuyId": 341401,
+    "pricing": {
+     "basePrice": 289,
+     "totalPrice": 209,
+     "discountTotal": 80,
+     "discountPercent": 28,
+     "priceText": ""
+    },
+    "reviews": {
+     "rating": 3.8,
+     "amount": 17
+    },
+    "attributes": {
+     "part": {
+      "name": "Область использования",
+      "filterValue": "area_of_use_volosy",
+      "value": "Волосы",
+      "url": "/catalog/area_of_use_volosy/"
+     },
+     "section": [
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy",
+       "value": "Волосы",
+       "img": "/upload/iblock/7eb/7eb6726a0bb2e776fc2cd5ac24dd0ba6.png",
+       "url": "/catalog/category_volosy/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy-ukladka",
+       "value": "Укладка и стайлинг",
+       "img": "/upload/iblock/cf4/cf46120c97736e339d2c3eeb86495643.png",
+       "url": "/catalog/category_volosy-ukladka/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy-ukladka-sprei",
+       "value": "Спреи",
+       "img": "/upload/iblock/6ca/6ca994e93a621535e1e9c76fb01dc6d7.png",
+       "url": "/catalog/category_volosy-ukladka-sprei/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_korea",
+       "value": "Корея",
+       "img": "/upload/iblock/cd7/cd7c00932d93223e79740f38a1621bfa.png",
+       "url": "/catalog/category_korea/"
+      }
+     ],
+     "skin": {
+      "name": "Тип кожи",
+      "filterValue": "skin_type_vse-tipy-kozhi",
+      "value": "Все типы кожи",
+      "url": "/catalog/skin_type_vse-tipy-kozhi/"
+     },
+     "weight": {
+      "name": "Вес в упаковке, г.",
+      "filterValue": null,
+      "value": "55",
+      "url": null
+     },
+     "height": {
+      "name": "Высота упаковки, мм",
+      "filterValue": null,
+      "value": "120",
+      "url": null
+     },
+     "width": {
+      "name": "Ширина упаковки, мм",
+      "filterValue": null,
+      "value": "32",
+      "url": null
+     },
+     "length": {
+      "name": "Длина упаковки, мм",
+      "filterValue": null,
+      "value": "32",
+      "url": null
+     },
+     "country": {
+      "name": "Страна",
+      "filterValue": "country_china",
+      "value": "Китай",
+      "url": "/catalog/country_china/"
+     },
+     "texture": {
+      "name": "Текстура",
+      "filterValue": "texture_sprey",
+      "value": "Спрей",
+      "url": "/catalog/texture_sprey/"
+     },
+     "composition": {
+      "name": "Состав",
+      "filterValue": null,
+      "value": "AQUA,ALCOHOL,GLYCERIN,BUTYL ACRYLATE/HYDROXYETHYL METHACRYLATE COPOLYMER, AMODIMETHICONE, TRIDECETH-4, CETRIMONIUM CHLOR",
+      "url": null
+     },
+     "instruction": {
+      "name": "Способ применения",
+      "filterValue": null,
+      "value": "Хорошо взболтать перед использованием. Распылить спрей на влажные или сухие локоны. Высушить\nволосы при помощи фена или ",
+      "url": null
+     },
+     "tone": null,
+     "marking": null,
+     "tag": null,
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_kensuko",
+      "value": "KENSUKO",
+      "url": "/catalog/brand_kensuko/"
+     }
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": true,
+     "quantityOnline": 50,
+     "availableOffline": true,
+     "quantityOffline": 53,
+     "remains": 103,
+     "shopsNumber": 12
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-discount/",
+      "description": "",
+      "name": "Персональная скидка",
+      "title": "-28%",
+      "type": "discount",
+      "img": "",
+      "mobileCode": "msk-personal_discount",
+      "hex": "#FF78B2"
+     },
+     {
+      "url": "/catalog/mark_msk-gift/",
+      "description": "",
+      "name": "Подарок",
+      "title": null,
+      "type": "gift",
+      "img": "/upload/medialibrary/shildy/gift.svg",
+      "mobileCode": "msk-gift",
+      "hex": "#74C3F7"
+     },
+     {
+      "url": "/catalog/mark_msk-benefit/",
+      "description": "",
+      "name": "Выгодная цена",
+      "title": null,
+      "type": "benefit",
+      "img": "/upload/medialibrary/shildy/wallet.svg",
+      "mobileCode": "msk-benefit",
+      "hex": "#74C3F7"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": null,
+    "offers": null
+   },
+   {
+    "article": "154848",
+    "name": "Гель для укладки волос `KENSUKO` CREATE сильной фиксации 75 мл",
+    "description": "Гель для укладки волос KENSUKO CREATE сильной фиксации позволяет создавать самые",
+    "url": "/catalog/volosy/ukladka/154848-gel_dlya_ukladki_volos_kensuko_create_silnoy_fiksatsii_75_ml/",
+    "sort": 744,
+    "favorite": false,
+    "bitrixProductId": 318393,
+    "bitrixSection": {
+     "id": 4617,
+     "url": "/catalog/category_volosy-ukladka-geli/",
+     "name": "Гели",
+     "code": "geli",
+     "namePath": "Волосы/Укладка и стайлинг/Гели"
+    },
+    "frisbuyId": 318389,
+    "pricing": {
+     "basePrice": 489,
+     "totalPrice": 349,
+     "discountTotal": 140,
+     "discountPercent": 29,
+     "priceText": ""
+    },
+    "reviews": {
+     "rating": 4.7,
+     "amount": 8
+    },
+    "attributes": {
+     "part": {
+      "name": "Область использования",
+      "filterValue": "area_of_use_volosy",
+      "value": "Волосы",
+      "url": "/catalog/area_of_use_volosy/"
+     },
+     "section": [
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy",
+       "value": "Волосы",
+       "img": "/upload/iblock/7eb/7eb6726a0bb2e776fc2cd5ac24dd0ba6.png",
+       "url": "/catalog/category_volosy/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy-ukladka",
+       "value": "Укладка и стайлинг",
+       "img": "/upload/iblock/cf4/cf46120c97736e339d2c3eeb86495643.png",
+       "url": "/catalog/category_volosy-ukladka/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy-ukladka-geli",
+       "value": "Гели",
+       "img": "/upload/iblock/60b/60bb2da9c6944a7d268b9142bd37a7a7.png",
+       "url": "/catalog/category_volosy-ukladka-geli/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_korea",
+       "value": "Корея",
+       "img": "/upload/iblock/cd7/cd7c00932d93223e79740f38a1621bfa.png",
+       "url": "/catalog/category_korea/"
+      }
+     ],
+     "skin": {
+      "name": "Тип кожи",
+      "filterValue": "skin_type_vse-tipy-kozhi",
+      "value": "Все типы кожи",
+      "url": "/catalog/skin_type_vse-tipy-kozhi/"
+     },
+     "weight": {
+      "name": "Вес в упаковке, г.",
+      "filterValue": null,
+      "value": "99",
+      "url": null
+     },
+     "height": {
+      "name": "Высота упаковки, мм",
+      "filterValue": null,
+      "value": "37",
+      "url": null
+     },
+     "width": {
+      "name": "Ширина упаковки, мм",
+      "filterValue": null,
+      "value": "70",
+      "url": null
+     },
+     "length": {
+      "name": "Длина упаковки, мм",
+      "filterValue": null,
+      "value": "70",
+      "url": null
+     },
+     "country": {
+      "name": "Страна",
+      "filterValue": "country_china",
+      "value": "Китай",
+      "url": "/catalog/country_china/"
+     },
+     "texture": {
+      "name": "Текстура",
+      "filterValue": "texture_gelevaya",
+      "value": "Гелевая",
+      "url": "/catalog/texture_gelevaya/"
+     },
+     "composition": {
+      "name": "Состав",
+      "filterValue": null,
+      "value": "AQUA,  CETETH-20 , GLYCERIN,  FRAGRANCE , METHYLPARABEN,  DMDM HYDANTOIN , PROPYLPARABEN , DISODIUM EDTA",
+      "url": null
+     },
+     "instruction": {
+      "name": "Способ применения",
+      "filterValue": null,
+      "value": "Взять небольшое количество геля на ладонь, растереть и распределить на чистые сухие волосы от\nкорней по всему объему. См",
+      "url": null
+     },
+     "tone": null,
+     "marking": null,
+     "tag": null,
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_kensuko",
+      "value": "KENSUKO",
+      "url": "/catalog/brand_kensuko/"
+     }
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": true,
+     "quantityOnline": 18,
+     "availableOffline": true,
+     "quantityOffline": 96,
+     "remains": 114,
+     "shopsNumber": 12
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-discount/",
+      "description": "",
+      "name": "Персональная скидка",
+      "title": "-29%",
+      "type": "discount",
+      "img": "",
+      "mobileCode": "msk-personal_discount",
+      "hex": "#FF78B2"
+     },
+     {
+      "url": "/catalog/mark_msk-gift/",
+      "description": "",
+      "name": "Подарок",
+      "title": null,
+      "type": "gift",
+      "img": "/upload/medialibrary/shildy/gift.svg",
+      "mobileCode": "msk-gift",
+      "hex": "#74C3F7"
+     },
+     {
+      "url": "/catalog/mark_msk-benefit/",
+      "description": "",
+      "name": "Выгодная цена",
+      "title": null,
+      "type": "benefit",
+      "img": "/upload/medialibrary/shildy/wallet.svg",
+      "mobileCode": "msk-benefit",
+      "hex": "#74C3F7"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": {
+     "sum": 87.25,
+     "monthQuantity": 4
+    },
+    "offers": null
+   },
+   {
+    "article": "219329",
+    "name": "Шампунь для волос `KENSUKO` FRESH fragrance free (сухой) 75",
+    "description": "Не нравятся парфюмированные сухие шампуни, которые перебивают аромат духов? Сухо",
+    "url": "/catalog/volosy/sukhie_shampuni/219329-shampun-dlya-volos-kensuko-fresh-fragrance-free-sukhoy-75/",
+    "sort": 643,
+    "favorite": false,
+    "bitrixProductId": 1183050,
+    "bitrixSection": {
+     "id": 4593,
+     "url": "/catalog/category_volosy-sukhie_shampuni/",
+     "name": "Сухие шампуни",
+     "code": "sukhie_shampuni",
+     "namePath": "Волосы/Сухие шампуни"
+    },
+    "frisbuyId": 1183046,
+    "pricing": {
+     "basePrice": 319,
+     "totalPrice": 209,
+     "discountTotal": 110,
+     "discountPercent": 34,
+     "priceText": ""
+    },
+    "reviews": {
+     "rating": 4.3,
+     "amount": 11
+    },
+    "attributes": {
+     "part": {
+      "name": "Область использования",
+      "filterValue": "area_of_use_volosy",
+      "value": "Волосы",
+      "url": "/catalog/area_of_use_volosy/"
+     },
+     "section": [
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy",
+       "value": "Волосы",
+       "img": "/upload/iblock/7eb/7eb6726a0bb2e776fc2cd5ac24dd0ba6.png",
+       "url": "/catalog/category_volosy/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy-sukhie_shampuni",
+       "value": "Сухие шампуни",
+       "img": "/upload/iblock/3a2/3a2160b7d8710941042db00505c1e514.png",
+       "url": "/catalog/category_volosy-sukhie_shampuni/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_korea",
+       "value": "Корея",
+       "img": "/upload/iblock/cd7/cd7c00932d93223e79740f38a1621bfa.png",
+       "url": "/catalog/category_korea/"
+      }
+     ],
+     "skin": {
+      "name": "Тип кожи",
+      "filterValue": "skin_type_vse-tipy-kozhi",
+      "value": "Все типы кожи",
+      "url": "/catalog/skin_type_vse-tipy-kozhi/"
+     },
+     "weight": {
+      "name": "Вес в упаковке, г.",
+      "filterValue": null,
+      "value": "66",
+      "url": null
+     },
+     "height": {
+      "name": "Высота упаковки, мм",
+      "filterValue": null,
+      "value": "155",
+      "url": null
+     },
+     "width": {
+      "name": "Ширина упаковки, мм",
+      "filterValue": null,
+      "value": "35",
+      "url": null
+     },
+     "length": {
+      "name": "Длина упаковки, мм",
+      "filterValue": null,
+      "value": "35",
+      "url": null
+     },
+     "country": {
+      "name": "Страна",
+      "filterValue": "country_turkey",
+      "value": "Турция",
+      "url": "/catalog/country_turkey/"
+     },
+     "texture": {
+      "name": "Текстура",
+      "filterValue": "texture_sprey",
+      "value": "Спрей",
+      "url": "/catalog/texture_sprey/"
+     },
+     "composition": {
+      "name": "Состав",
+      "filterValue": null,
+      "value": "Alcohol Denat., Oryza Sativa (Rice) Starch, Cetrimonium Chloride, Benzophenone-4, Hydralized Keratin Hair, Butane/Propan",
+      "url": null
+     },
+     "instruction": {
+      "name": "Способ применения",
+      "filterValue": null,
+      "value": "Перед использованием энергично встряхнуть баллон. Распылить с расстояния 30 см на корни волос,\nобеспечивая попадание сре",
+      "url": null
+     },
+     "tone": null,
+     "marking": null,
+     "tag": null,
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_kensuko",
+      "value": "KENSUKO",
+      "url": "/catalog/brand_kensuko/"
+     }
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": true,
+     "quantityOnline": 33,
+     "availableOffline": true,
+     "quantityOffline": 62,
+     "remains": 95,
+     "shopsNumber": 11
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-discount/",
+      "description": "",
+      "name": "Персональная скидка",
+      "title": "-34%",
+      "type": "discount",
+      "img": "",
+      "mobileCode": "msk-personal_discount",
+      "hex": "#FF78B2"
+     },
+     {
+      "url": "/catalog/mark_msk-gift/",
+      "description": "",
+      "name": "Подарок",
+      "title": null,
+      "type": "gift",
+      "img": "/upload/medialibrary/shildy/gift.svg",
+      "mobileCode": "msk-gift",
+      "hex": "#74C3F7"
+     },
+     {
+      "url": "/catalog/mark_msk-benefit/",
+      "description": "",
+      "name": "Выгодная цена",
+      "title": null,
+      "type": "benefit",
+      "img": "/upload/medialibrary/shildy/wallet.svg",
+      "mobileCode": "msk-benefit",
+      "hex": "#74C3F7"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": null,
+    "offers": null
+   },
+   {
+    "article": "84358",
+    "name": "Средство для волос `KENSUKO` восстанавливающее с витамином Е 760 мл",
+    "description": "Средство для волос KENSUKO восстанавливающее с витамином Е запечатывает поврежде",
+    "url": "/catalog/volosy/maski_dlya_volos/84358-sredstvo-dlya-volos-kensuko-vosstanavlivayushchee-s-vitaminom-e-760-ml/",
+    "sort": 453,
+    "favorite": false,
+    "bitrixProductId": 53579,
+    "bitrixSection": {
+     "id": 2549,
+     "url": "/catalog/category_volosy-maski_dlya_volos/",
+     "name": "Маски для волос",
+     "code": "maski_dlya_volos",
+     "namePath": "Волосы/Маски для волос"
+    },
+    "frisbuyId": 20868,
+    "pricing": {
+     "basePrice": 1499,
+     "totalPrice": 909,
+     "discountTotal": 590,
+     "discountPercent": 39,
+     "priceText": ""
+    },
+    "reviews": {
+     "rating": 4.8,
+     "amount": 16
+    },
+    "attributes": {
+     "part": {
+      "name": "Область использования",
+      "filterValue": "area_of_use_volosy",
+      "value": "Волосы",
+      "url": "/catalog/area_of_use_volosy/"
+     },
+     "section": [
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy",
+       "value": "Волосы",
+       "img": "/upload/iblock/7eb/7eb6726a0bb2e776fc2cd5ac24dd0ba6.png",
+       "url": "/catalog/category_volosy/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy-maski_dlya_volos",
+       "value": "Маски для волос",
+       "img": "/upload/iblock/42e/42e8656efbf667fc61d7bf96f4fe21c9.png",
+       "url": "/catalog/category_volosy-maski_dlya_volos/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_korea",
+       "value": "Корея",
+       "img": "/upload/iblock/cd7/cd7c00932d93223e79740f38a1621bfa.png",
+       "url": "/catalog/category_korea/"
+      }
+     ],
+     "skin": {
+      "name": "Тип кожи",
+      "filterValue": "skin_type_vse-tipy-kozhi",
+      "value": "Все типы кожи",
+      "url": "/catalog/skin_type_vse-tipy-kozhi/"
+     },
+     "weight": {
+      "name": "Вес в упаковке, г.",
+      "filterValue": null,
+      "value": "870",
+      "url": null
+     },
+     "height": {
+      "name": "Высота упаковки, мм",
+      "filterValue": null,
+      "value": "283",
+      "url": null
+     },
+     "width": {
+      "name": "Ширина упаковки, мм",
+      "filterValue": null,
+      "value": "85",
+      "url": null
+     },
+     "length": {
+      "name": "Длина упаковки, мм",
+      "filterValue": null,
+      "value": "53",
+      "url": null
+     },
+     "country": {
+      "name": "Страна",
+      "filterValue": "country_china",
+      "value": "Китай",
+      "url": "/catalog/country_china/"
+     },
+     "texture": {
+      "name": "Текстура",
+      "filterValue": "texture_zhidkaya",
+      "value": "Жидкая",
+      "url": "/catalog/texture_zhidkaya/"
+     },
+     "composition": {
+      "name": "Состав",
+      "filterValue": null,
+      "value": "Water, Steartrimonium Chloride, Amo d ime t h i c o n e , C e t y l A l c o h o l , G l y c e r i n , C e t e a r y A l ",
+      "url": null
+     },
+     "instruction": {
+      "name": "Способ применения",
+      "filterValue": null,
+      "value": "Нанести на чистые влажные волосы, оставить на 15 минут, хорошо смыть водой. Избегать попадания в\nглаза. При попадании в ",
+      "url": null
+     },
+     "tone": null,
+     "marking": null,
+     "tag": null,
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_kensuko",
+      "value": "KENSUKO",
+      "url": "/catalog/brand_kensuko/"
+     }
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": true,
+     "quantityOnline": 56,
+     "availableOffline": true,
+     "quantityOffline": 52,
+     "remains": 108,
+     "shopsNumber": 12
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-discount/",
+      "description": "",
+      "name": "Персональная скидка",
+      "title": "-39%",
+      "type": "discount",
+      "img": "",
+      "mobileCode": "msk-personal_discount",
+      "hex": "#FF78B2"
+     },
+     {
+      "url": "/catalog/mark_msk-hit/",
+      "description": "",
+      "name": "Хит продаж",
+      "title": "хит",
+      "type": "hit",
+      "img": null,
+      "mobileCode": "msk-hit",
+      "hex": "#9CD05A"
+     },
+     {
+      "url": "/catalog/mark_msk-gift/",
+      "description": "",
+      "name": "Подарок",
+      "title": null,
+      "type": "gift",
+      "img": "/upload/medialibrary/shildy/gift.svg",
+      "mobileCode": "msk-gift",
+      "hex": "#74C3F7"
+     },
+     {
+      "url": "/catalog/mark_msk-benefit/",
+      "description": "",
+      "name": "Выгодная цена",
+      "title": null,
+      "type": "benefit",
+      "img": "/upload/medialibrary/shildy/wallet.svg",
+      "mobileCode": "msk-benefit",
+      "hex": "#74C3F7"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": {
+     "sum": 227.25,
+     "monthQuantity": 4
+    },
+    "offers": null
+   }
+  ],
+  "navigation": {
+   "totalOffersCount": 155,
+   "totalPagesCount": 8,
+   "pageSize": 20,
+   "currentPage": 1
+  }
+ },
+ "urls": {
+  "site": "/catalog/promotion_pzp_kensuko_sep2026/",
+  "api": {
+   "filter": "/api/v3/catalog/promotion_pzp_kensuko_sep2026/filter",
+   "listing": "/api/v3/catalog/promotion_pzp_kensuko_sep2026/listing",
+   "seo": "/api/v3/catalog/promotion_pzp_kensuko_sep2026/seo"
+  },
+  "redirect": null
+ },
+ "redirectUrl": null,
+ "timings": {
+  "summary": 0.8005690574646
+ }
+}

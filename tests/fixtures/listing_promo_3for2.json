@@ -1,0 +1,647 @@
+{
+ "_note": "листинг акции (3for2), первые 4 плитки, 2026-09-25 12:30–13:40 МСК (после утреннего окна), регион Свердловская обл.",
+ "listing": {
+  "offers": [
+   {
+    "article": "242406",
+    "name": "Носки `TRENDY LOOK` HIP HOP BEAR (черные) one size",
+    "description": "Носки функциональный и стильный аксессуар, который поможет выразить вашу индивид",
+    "url": "/catalog/aksessuary/bele_i_kolgotki/noski/242406-noski-trendy-look-hip-hop-bear-chernye-one-size/",
+    "sort": 38,
+    "favorite": false,
+    "bitrixProductId": 1441739,
+    "bitrixSection": {
+     "id": 2181,
+     "url": "/catalog/category_aksessuary-bele_i_kolgotki-noski/",
+     "name": "Носки",
+     "code": "noski",
+     "namePath": "Аксессуары/Белье и колготки/Носки"
+    },
+    "frisbuyId": 1441738,
+    "pricing": {
+     "basePrice": 244,
+     "totalPrice": 244,
+     "priceText": ""
+    },
+    "reviews": {
+     "rating": 0,
+     "amount": 0
+    },
+    "attributes": {
+     "part": null,
+     "section": [
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_aksessuary",
+       "value": "Аксессуары",
+       "img": "/upload/iblock/de9/de93347da4fae3c40f555182014f6900.png",
+       "url": "/catalog/category_aksessuary/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_aksessuary-bele_i_kolgotki",
+       "value": "Белье и колготки",
+       "img": "/upload/iblock/b2d/b2d26b6530809e1a4852c1ef644000f5.png",
+       "url": "/catalog/category_aksessuary-bele_i_kolgotki/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_aksessuary-bele_i_kolgotki-noski",
+       "value": "Носки",
+       "img": "/upload/iblock/625/625e322d3ecfa3a10ecfc4e212351704.png",
+       "url": "/catalog/category_aksessuary-bele_i_kolgotki-noski/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_korea",
+       "value": "Корея",
+       "img": "/upload/iblock/cd7/cd7c00932d93223e79740f38a1621bfa.png",
+       "url": "/catalog/category_korea/"
+      }
+     ],
+     "skin": null,
+     "weight": {
+      "name": "Вес в упаковке, г.",
+      "filterValue": null,
+      "value": "39",
+      "url": null
+     },
+     "height": {
+      "name": "Высота упаковки, мм",
+      "filterValue": null,
+      "value": "200",
+      "url": null
+     },
+     "width": {
+      "name": "Ширина упаковки, мм",
+      "filterValue": null,
+      "value": "100",
+      "url": null
+     },
+     "length": {
+      "name": "Длина упаковки, мм",
+      "filterValue": null,
+      "value": "20",
+      "url": null
+     },
+     "country": {
+      "name": "Страна",
+      "filterValue": "country_china",
+      "value": "Китай",
+      "url": "/catalog/country_china/"
+     },
+     "texture": null,
+     "composition": {
+      "name": "Состав",
+      "filterValue": null,
+      "value": "65% cotton， 30% polyester， 5% elastic fiber",
+      "url": null
+     },
+     "instruction": {
+      "name": "Способ применения",
+      "filterValue": null,
+      "value": "Использовать по назначению",
+      "url": null
+     },
+     "tone": null,
+     "marking": null,
+     "tag": null,
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_trendy_look",
+      "value": "TRENDY LOOK",
+      "url": "/catalog/brand_trendy_look/"
+     }
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": true,
+     "quantityOnline": 11,
+     "availableOffline": true,
+     "quantityOffline": 31,
+     "remains": 42,
+     "shopsNumber": 8
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-3for2/",
+      "description": "",
+      "name": "Три по цене 2х",
+      "title": "1+1=3",
+      "type": "3for2",
+      "img": null,
+      "mobileCode": "msk-3for2",
+      "hex": "#9C82D1"
+     }
+    ],
+    "promotions": [
+     {
+      "id": "1552118",
+      "url": "/catalog/promotion_socks_aug2026/",
+      "description": "",
+      "name": "НОСКИ: 1+1=3",
+      "type": "threeForTwo",
+      "filterValue": "promotion_socks_aug2026",
+      "bannerBgColor": "",
+      "bannerImage": "0",
+      "otherView": "text",
+      "otherText": "1+1",
+      "otherImage": "0"
+     }
+    ],
+    "partPaymentPrice": null,
+    "offers": null
+   },
+   {
+    "article": "226057",
+    "name": "Носки женские `ESLI` светло-розовый (36-39) классические",
+    "description": "Классические женские носки из хлопка, однотонные.",
+    "url": "/catalog/aksessuary/bele_i_kolgotki/noski/226057-noski-zhenskie-esli-svetlo-rozovyy-36-39-klassicheskie/",
+    "sort": 28,
+    "favorite": false,
+    "bitrixProductId": 1205278,
+    "bitrixSection": {
+     "id": 2181,
+     "url": "/catalog/category_aksessuary-bele_i_kolgotki-noski/",
+     "name": "Носки",
+     "code": "noski",
+     "namePath": "Аксессуары/Белье и колготки/Носки"
+    },
+    "frisbuyId": 1205274,
+    "pricing": {
+     "basePrice": 165,
+     "totalPrice": 165,
+     "priceText": ""
+    },
+    "reviews": {
+     "rating": 0,
+     "amount": 0
+    },
+    "attributes": {
+     "part": {
+      "name": "Область использования",
+      "filterValue": "area_of_use_nogi",
+      "value": "Ноги",
+      "url": "/catalog/area_of_use_nogi/"
+     },
+     "section": [
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_aksessuary",
+       "value": "Аксессуары",
+       "img": "/upload/iblock/de9/de93347da4fae3c40f555182014f6900.png",
+       "url": "/catalog/category_aksessuary/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_aksessuary-bele_i_kolgotki",
+       "value": "Белье и колготки",
+       "img": "/upload/iblock/b2d/b2d26b6530809e1a4852c1ef644000f5.png",
+       "url": "/catalog/category_aksessuary-bele_i_kolgotki/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_aksessuary-bele_i_kolgotki-noski",
+       "value": "Носки",
+       "img": "/upload/iblock/625/625e322d3ecfa3a10ecfc4e212351704.png",
+       "url": "/catalog/category_aksessuary-bele_i_kolgotki-noski/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_korea",
+       "value": "Корея",
+       "img": "/upload/iblock/cd7/cd7c00932d93223e79740f38a1621bfa.png",
+       "url": "/catalog/category_korea/"
+      }
+     ],
+     "skin": {
+      "name": "Тип кожи",
+      "filterValue": "skin_type_vse-tipy-kozhi",
+      "value": "Все типы кожи",
+      "url": "/catalog/skin_type_vse-tipy-kozhi/"
+     },
+     "weight": {
+      "name": "Вес в упаковке, г.",
+      "filterValue": null,
+      "value": "25",
+      "url": null
+     },
+     "height": {
+      "name": "Высота упаковки, мм",
+      "filterValue": null,
+      "value": "190",
+      "url": null
+     },
+     "width": {
+      "name": "Ширина упаковки, мм",
+      "filterValue": null,
+      "value": "90",
+      "url": null
+     },
+     "length": {
+      "name": "Длина упаковки, мм",
+      "filterValue": null,
+      "value": "15",
+      "url": null
+     },
+     "country": {
+      "name": "Страна",
+      "filterValue": "country_belarus",
+      "value": "Беларусь",
+      "url": "/catalog/country_belarus/"
+     },
+     "texture": {
+      "name": "Текстура",
+      "filterValue": "texture_tkanevaya",
+      "value": "Тканевая",
+      "url": "/catalog/texture_tkanevaya/"
+     },
+     "composition": {
+      "name": "Состав",
+      "filterValue": null,
+      "value": "хлопок 76%, полиамид 22%, эластан 2%",
+      "url": null
+     },
+     "instruction": {
+      "name": "Способ применения",
+      "filterValue": null,
+      "value": "по назначению",
+      "url": null
+     },
+     "tone": null,
+     "marking": null,
+     "tag": null,
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_esli",
+      "value": "ESLI",
+      "url": "/catalog/brand_esli/"
+     }
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": true,
+     "quantityOnline": 2,
+     "availableOffline": true,
+     "quantityOffline": 14,
+     "remains": 16,
+     "shopsNumber": 6
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-3for2/",
+      "description": "",
+      "name": "Три по цене 2х",
+      "title": "1+1=3",
+      "type": "3for2",
+      "img": null,
+      "mobileCode": "msk-3for2",
+      "hex": "#9C82D1"
+     }
+    ],
+    "promotions": [
+     {
+      "id": "1552118",
+      "url": "/catalog/promotion_socks_aug2026/",
+      "description": "",
+      "name": "НОСКИ: 1+1=3",
+      "type": "threeForTwo",
+      "filterValue": "promotion_socks_aug2026",
+      "bannerBgColor": "",
+      "bannerImage": "0",
+      "otherView": "text",
+      "otherText": "1+1",
+      "otherImage": "0"
+     }
+    ],
+    "partPaymentPrice": null,
+    "offers": null
+   },
+   {
+    "article": "242409",
+    "name": "Носки `TRENDY LOOK` HIP HOP BEAR (салатовые) one size",
+    "description": "Носки женские функциональный и стильный аксессуар, который поможет выразить вашу",
+    "url": "/catalog/aksessuary/bele_i_kolgotki/noski/242409-noski-trendy-look-hip-hop-bear-salatovye-one-size/",
+    "sort": 23,
+    "favorite": false,
+    "bitrixProductId": 1431518,
+    "bitrixSection": {
+     "id": 2181,
+     "url": "/catalog/category_aksessuary-bele_i_kolgotki-noski/",
+     "name": "Носки",
+     "code": "noski",
+     "namePath": "Аксессуары/Белье и колготки/Носки"
+    },
+    "frisbuyId": 1431517,
+    "pricing": {
+     "basePrice": 244,
+     "totalPrice": 244,
+     "priceText": ""
+    },
+    "reviews": {
+     "rating": 0,
+     "amount": 0
+    },
+    "attributes": {
+     "part": null,
+     "section": [
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_aksessuary",
+       "value": "Аксессуары",
+       "img": "/upload/iblock/de9/de93347da4fae3c40f555182014f6900.png",
+       "url": "/catalog/category_aksessuary/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_aksessuary-bele_i_kolgotki",
+       "value": "Белье и колготки",
+       "img": "/upload/iblock/b2d/b2d26b6530809e1a4852c1ef644000f5.png",
+       "url": "/catalog/category_aksessuary-bele_i_kolgotki/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_aksessuary-bele_i_kolgotki-noski",
+       "value": "Носки",
+       "img": "/upload/iblock/625/625e322d3ecfa3a10ecfc4e212351704.png",
+       "url": "/catalog/category_aksessuary-bele_i_kolgotki-noski/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_korea",
+       "value": "Корея",
+       "img": "/upload/iblock/cd7/cd7c00932d93223e79740f38a1621bfa.png",
+       "url": "/catalog/category_korea/"
+      }
+     ],
+     "skin": null,
+     "weight": {
+      "name": "Вес в упаковке, г.",
+      "filterValue": null,
+      "value": "43",
+      "url": null
+     },
+     "height": {
+      "name": "Высота упаковки, мм",
+      "filterValue": null,
+      "value": "226",
+      "url": null
+     },
+     "width": {
+      "name": "Ширина упаковки, мм",
+      "filterValue": null,
+      "value": "100",
+      "url": null
+     },
+     "length": {
+      "name": "Длина упаковки, мм",
+      "filterValue": null,
+      "value": "17",
+      "url": null
+     },
+     "country": {
+      "name": "Страна",
+      "filterValue": "country_china",
+      "value": "Китай",
+      "url": "/catalog/country_china/"
+     },
+     "texture": null,
+     "composition": {
+      "name": "Состав",
+      "filterValue": null,
+      "value": "65% cotton， 30% polyester， 5% elastic fiber",
+      "url": null
+     },
+     "instruction": {
+      "name": "Способ применения",
+      "filterValue": null,
+      "value": "Использовать по назначению",
+      "url": null
+     },
+     "tone": null,
+     "marking": null,
+     "tag": null,
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_trendy_look",
+      "value": "TRENDY LOOK",
+      "url": "/catalog/brand_trendy_look/"
+     }
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": true,
+     "quantityOnline": 11,
+     "availableOffline": true,
+     "quantityOffline": 38,
+     "remains": 49,
+     "shopsNumber": 10
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-3for2/",
+      "description": "",
+      "name": "Три по цене 2х",
+      "title": "1+1=3",
+      "type": "3for2",
+      "img": null,
+      "mobileCode": "msk-3for2",
+      "hex": "#9C82D1"
+     }
+    ],
+    "promotions": [
+     {
+      "id": "1552118",
+      "url": "/catalog/promotion_socks_aug2026/",
+      "description": "",
+      "name": "НОСКИ: 1+1=3",
+      "type": "threeForTwo",
+      "filterValue": "promotion_socks_aug2026",
+      "bannerBgColor": "",
+      "bannerImage": "0",
+      "otherView": "text",
+      "otherText": "1+1",
+      "otherImage": "0"
+     }
+    ],
+    "partPaymentPrice": null,
+    "offers": null
+   },
+   {
+    "article": "249964",
+    "name": "Подследники `TRENDY LOOK` BREATHABLE LACE (бежевый) one size",
+    "description": null,
+    "url": "/catalog/aksessuary/bele_i_kolgotki/noski/249964-podsledniki-trendy-look-breathable-lace-bezhevyy-one-size/",
+    "sort": 19,
+    "favorite": false,
+    "bitrixProductId": 1432085,
+    "bitrixSection": {
+     "id": 2181,
+     "url": "/catalog/category_aksessuary-bele_i_kolgotki-noski/",
+     "name": "Носки",
+     "code": "noski",
+     "namePath": "Аксессуары/Белье и колготки/Носки"
+    },
+    "frisbuyId": 1432084,
+    "pricing": {
+     "basePrice": 193,
+     "totalPrice": 193,
+     "priceText": ""
+    },
+    "reviews": {
+     "rating": 0,
+     "amount": 0
+    },
+    "attributes": {
+     "part": null,
+     "section": [
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_aksessuary",
+       "value": "Аксессуары",
+       "img": "/upload/iblock/de9/de93347da4fae3c40f555182014f6900.png",
+       "url": "/catalog/category_aksessuary/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_aksessuary-bele_i_kolgotki",
+       "value": "Белье и колготки",
+       "img": "/upload/iblock/b2d/b2d26b6530809e1a4852c1ef644000f5.png",
+       "url": "/catalog/category_aksessuary-bele_i_kolgotki/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_aksessuary-bele_i_kolgotki-noski",
+       "value": "Носки",
+       "img": "/upload/iblock/625/625e322d3ecfa3a10ecfc4e212351704.png",
+       "url": "/catalog/category_aksessuary-bele_i_kolgotki-noski/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_korea",
+       "value": "Корея",
+       "img": "/upload/iblock/cd7/cd7c00932d93223e79740f38a1621bfa.png",
+       "url": "/catalog/category_korea/"
+      }
+     ],
+     "skin": null,
+     "weight": {
+      "name": "Вес в упаковке, г.",
+      "filterValue": null,
+      "value": "18",
+      "url": null
+     },
+     "height": {
+      "name": "Высота упаковки, мм",
+      "filterValue": null,
+      "value": "222",
+      "url": null
+     },
+     "width": {
+      "name": "Ширина упаковки, мм",
+      "filterValue": null,
+      "value": "108",
+      "url": null
+     },
+     "length": {
+      "name": "Длина упаковки, мм",
+      "filterValue": null,
+      "value": "10",
+      "url": null
+     },
+     "country": {
+      "name": "Страна",
+      "filterValue": "country_china",
+      "value": "Китай",
+      "url": "/catalog/country_china/"
+     },
+     "texture": null,
+     "composition": null,
+     "instruction": null,
+     "tone": null,
+     "marking": null,
+     "tag": null,
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_trendy_look",
+      "value": "TRENDY LOOK",
+      "url": "/catalog/brand_trendy_look/"
+     }
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": true,
+     "quantityOnline": 70,
+     "availableOffline": true,
+     "quantityOffline": 34,
+     "remains": 104,
+     "shopsNumber": 8
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-3for2/",
+      "description": "",
+      "name": "Три по цене 2х",
+      "title": "1+1=3",
+      "type": "3for2",
+      "img": null,
+      "mobileCode": "msk-3for2",
+      "hex": "#9C82D1"
+     }
+    ],
+    "promotions": [
+     {
+      "id": "1552118",
+      "url": "/catalog/promotion_socks_aug2026/",
+      "description": "",
+      "name": "НОСКИ: 1+1=3",
+      "type": "threeForTwo",
+      "filterValue": "promotion_socks_aug2026",
+      "bannerBgColor": "",
+      "bannerImage": "0",
+      "otherView": "text",
+      "otherText": "1+1",
+      "otherImage": "0"
+     }
+    ],
+    "partPaymentPrice": null,
+    "offers": null
+   }
+  ],
+  "navigation": {
+   "totalOffersCount": 282,
+   "totalPagesCount": 15,
+   "pageSize": 20,
+   "currentPage": 1
+  }
+ },
+ "urls": {
+  "site": "/catalog/promotion_socks_aug2026/",
+  "api": {
+   "filter": "/api/v3/catalog/promotion_socks_aug2026/filter",
+   "listing": "/api/v3/catalog/promotion_socks_aug2026/listing",
+   "seo": "/api/v3/catalog/promotion_socks_aug2026/seo"
+  },
+  "redirect": null
+ },
+ "redirectUrl": null,
+ "timings": {
+  "summary": 0.30495595932007
+ }
+}

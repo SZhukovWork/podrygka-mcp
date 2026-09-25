@@ -1,0 +1,157 @@
+{
+ "_note": "GET /api/v3/catalog/listing?search=шампунь&sorting=price_asc, регион Свердловская обл., 2026-09-25: в 11:25 МСК и в 12:00:57 МСК. Все 11 товаров с «Персональная скидка −5%», оставшихся на 1-й странице, после 12:00 вернулись к basePrice (ещё 2 подорожали и ушли со страницы); акционные (−22…−54%) не изменились. Страница 84361: 1 319/1 389 ₽ в 11:30 МСК → 1 389 ₽ в 12:01 МСК (DOM).",
+ "items": [
+  {
+   "article": "138925",
+   "name": "Шампунь для волос `KHARISMA VOLTAGE` ARGAN OIL с маслом арга",
+   "before_11_25_msk": {
+    "totalPrice": 192,
+    "basePrice": 203,
+    "discount_marks": [
+     "-5%"
+    ]
+   },
+   "after_12_00_msk": {
+    "totalPrice": 203,
+    "basePrice": 203,
+    "discount_marks": []
+   }
+  },
+  {
+   "article": "138927",
+   "name": "Шампунь для волос `KHARISMA VOLTAGE` GOLD GINGER Восстановле",
+   "before_11_25_msk": {
+    "totalPrice": 192,
+    "basePrice": 203,
+    "discount_marks": [
+     "-5%"
+    ]
+   },
+   "after_12_00_msk": {
+    "totalPrice": 203,
+    "basePrice": 203,
+    "discount_marks": []
+   }
+  },
+  {
+   "article": "213515",
+   "name": "Шампунь для волос `CAFE MIMI` SUPER FOOD Кокос и лотос (пита",
+   "before_11_25_msk": {
+    "totalPrice": 126,
+    "basePrice": 133,
+    "discount_marks": [
+     "-5%"
+    ]
+   },
+   "after_12_00_msk": {
+    "totalPrice": 133,
+    "basePrice": 133,
+    "discount_marks": []
+   }
+  },
+  {
+   "article": "258233",
+   "name": "Шампунь для волос `KENSUKO` BUBBLE GUM для объема 50 мл",
+   "before_11_25_msk": {
+    "totalPrice": 189,
+    "basePrice": 199,
+    "discount_marks": [
+     "-5%"
+    ]
+   },
+   "after_12_00_msk": {
+    "totalPrice": 199,
+    "basePrice": 199,
+    "discount_marks": []
+   }
+  },
+  {
+   "article": "263117",
+   "name": "Гель-шампунь для волос и тела `ТРИ КОТА` детский Фруктовая р",
+   "before_11_25_msk": {
+    "totalPrice": 240,
+    "basePrice": 253,
+    "discount_marks": [
+     "-5%"
+    ]
+   },
+   "after_12_00_msk": {
+    "totalPrice": 253,
+    "basePrice": 253,
+    "discount_marks": []
+   }
+  },
+  {
+   "article": "112672",
+   "name": "Шампунь для волос `ORGANIC SHOP` NATURALLY PROFESSIONAL COCO",
+   "before_11_25_msk": {
+    "totalPrice": 229,
+    "basePrice": 313,
+    "discount_marks": [
+     "-27%"
+    ]
+   },
+   "after_12_00_msk": {
+    "totalPrice": 229,
+    "basePrice": 313,
+    "discount_marks": [
+     "-27%"
+    ]
+   }
+  },
+  {
+   "article": "223187",
+   "name": "Шампунь для волос `ORGANIC SHOP` NATURALLY PROFESSIONAL MILK",
+   "before_11_25_msk": {
+    "totalPrice": 215,
+    "basePrice": 313,
+    "discount_marks": [
+     "-31%"
+    ]
+   },
+   "after_12_00_msk": {
+    "totalPrice": 215,
+    "basePrice": 313,
+    "discount_marks": [
+     "-31%"
+    ]
+   }
+  },
+  {
+   "article": "263539",
+   "name": "Шампунь-уход для волос `ПРИНЦЕССА` Волшебные локоны 250 мл",
+   "before_11_25_msk": {
+    "totalPrice": 205,
+    "basePrice": 273,
+    "discount_marks": [
+     "-25%"
+    ]
+   },
+   "after_12_00_msk": {
+    "totalPrice": 205,
+    "basePrice": 273,
+    "discount_marks": [
+     "-25%"
+    ]
+   }
+  },
+  {
+   "article": "260327",
+   "name": "SOS-шампунь для волос `ORGANIC OIL` `PROFESSIONAL` Восстанов",
+   "before_11_25_msk": {
+    "totalPrice": 41,
+    "basePrice": 58,
+    "discount_marks": [
+     "-29%"
+    ]
+   },
+   "after_12_00_msk": {
+    "totalPrice": 41,
+    "basePrice": 58,
+    "discount_marks": [
+     "-29%"
+    ]
+   }
+  }
+ ]
+}

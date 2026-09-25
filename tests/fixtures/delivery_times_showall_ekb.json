@@ -1,0 +1,107 @@
+{
+ "_note": "GET /api/v3/catalog/delivery_times?articles=242804,205409,260327,223187,84361&showAll=true — как на странице товара",
+ "items": [
+  {
+   "article": "205409",
+   "delivery_time": [
+    {
+     "name": "Самовывоз из магазина",
+     "code": "pickup",
+     "value": "сегодня",
+     "img": "/upload/delivery-icons/pickup.png",
+     "minDays": 0
+    }
+   ]
+  },
+  {
+   "article": "223187",
+   "delivery_time": [
+    {
+     "name": "Самовывоз из магазина",
+     "code": "pickup",
+     "value": "сегодня",
+     "img": "/upload/delivery-icons/pickup.png",
+     "minDays": 0
+    },
+    {
+     "name": "Доставка курьером",
+     "code": "courier",
+     "value": "2 - 3 дня",
+     "img": "/upload/delivery-icons/courier.png",
+     "minDays": 2
+    },
+    {
+     "name": "Из пункта выдачи",
+     "code": "pvz",
+     "value": "2 - 3 дня",
+     "img": "/upload/delivery-icons/pvz.png",
+     "minDays": 2
+    }
+   ]
+  },
+  {
+   "article": "242804",
+   "delivery_time": [
+    {
+     "name": "Самовывоз из магазина",
+     "code": "pickup",
+     "value": "сегодня",
+     "img": "/upload/delivery-icons/pickup.png",
+     "minDays": 0
+    },
+    {
+     "name": "Доставка курьером",
+     "code": "courier",
+     "value": "2 - 3 дня",
+     "img": "/upload/delivery-icons/courier.png",
+     "minDays": 2
+    },
+    {
+     "name": "Из пункта выдачи",
+     "code": "pvz",
+     "value": "2 - 3 дня",
+     "img": "/upload/delivery-icons/pvz.png",
+     "minDays": 2
+    }
+   ]
+  },
+  {
+   "article": "260327",
+   "delivery_time": [
+    {
+     "name": "Самовывоз из магазина",
+     "code": "pickup",
+     "value": "сегодня",
+     "img": "/upload/delivery-icons/pickup.png",
+     "minDays": 0
+    }
+   ]
+  },
+  {
+   "article": "84361",
+   "delivery_time": [
+    {
+     "name": "Самовывоз из магазина",
+     "code": "pickup",
+     "value": "сегодня",
+     "img": "/upload/delivery-icons/pickup.png",
+     "minDays": 0
+    },
+    {
+     "name": "Доставка курьером",
+     "code": "courier",
+     "value": "завтра",
+     "img": "/upload/delivery-icons/courier.png",
+     "minDays": 1
+    },
+    {
+     "name": "Из пункта выдачи",
+     "code": "pvz",
+     "value": "завтра",
+     "img": "/upload/delivery-icons/pvz.png",
+     "minDays": 1
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+ "_note": "productAvailable для товара без остатков в магазинах региона",
+ "jsonrpc": "2.0",
+ "result": {
+  "shops": []
+ },
+ "id": "x-1"
+}

@@ -1,0 +1,11 @@
+{
+ "status": 401,
+ "content_type": "application/problem+json",
+ "body": {
+  "type": "AuthTokenInvalidError",
+  "status": 401,
+  "title": "Недействительный токен",
+  "detail": "Токен авторизации некорректен или просрочен",
+  "instance": "/api/v3/catalog/product/242804"
+ }
+}

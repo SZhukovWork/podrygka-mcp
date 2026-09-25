@@ -1,0 +1,703 @@
+{
+ "_note": "листинг акции (sale), первые 4 плитки, 2026-09-25 12:30–13:40 МСК (после утреннего окна), регион Свердловская обл.",
+ "listing": {
+  "offers": [
+   {
+    "article": "268431",
+    "name": "Крем-пудра для лица `CATRICE` MY CORE ESSENTIALS прозрачная тон 01 My core essential",
+    "description": "Для безупречного тона кожи — матирующий гель MY CORE ESSENTIALS Magic Shine C01 ",
+    "url": "/catalog/makiyazh/litso/pudra/268431-krem-pudra-dlya-litsa-catrice-my-core-essentials-prozrachnaya-ton-01-my-core-essential/",
+    "sort": 38,
+    "favorite": false,
+    "bitrixProductId": 1545302,
+    "bitrixSection": {
+     "id": 956,
+     "url": "/catalog/category_makiyazh-litso-pudra/",
+     "name": "Пудра",
+     "code": "pudra",
+     "namePath": "Макияж/Лицо/Пудра"
+    },
+    "frisbuyId": 1545324,
+    "pricing": {
+     "basePrice": 689,
+     "totalPrice": 447,
+     "discountTotal": 242,
+     "discountPercent": 35,
+     "priceText": ""
+    },
+    "reviews": {
+     "rating": 0,
+     "amount": 0
+    },
+    "attributes": {
+     "part": {
+      "name": "Область использования",
+      "filterValue": "area_of_use_litso",
+      "value": "Лицо",
+      "url": "/catalog/area_of_use_litso/"
+     },
+     "section": [
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_makiyazh",
+       "value": "Макияж",
+       "img": "/upload/iblock/791/79184c9df7870950e39b11a7548e652f.png",
+       "url": "/catalog/category_makiyazh/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_makiyazh-litso",
+       "value": "Лицо",
+       "img": "/upload/iblock/a15/a159ca2047da3a115f32b74b12ee7124.png",
+       "url": "/catalog/category_makiyazh-litso/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_makiyazh-litso-pudra",
+       "value": "Пудра",
+       "img": "/upload/iblock/fc2/fc223efc8a856530ab9974623df0ac06.png",
+       "url": "/catalog/category_makiyazh-litso-pudra/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_korea",
+       "value": "Корея",
+       "img": "/upload/iblock/cd7/cd7c00932d93223e79740f38a1621bfa.png",
+       "url": "/catalog/category_korea/"
+      }
+     ],
+     "skin": null,
+     "weight": {
+      "name": "Вес в упаковке, г.",
+      "filterValue": null,
+      "value": "60",
+      "url": null
+     },
+     "height": {
+      "name": "Высота упаковки, мм",
+      "filterValue": null,
+      "value": "75",
+      "url": null
+     },
+     "width": {
+      "name": "Ширина упаковки, мм",
+      "filterValue": null,
+      "value": "75",
+      "url": null
+     },
+     "length": {
+      "name": "Длина упаковки, мм",
+      "filterValue": null,
+      "value": "20",
+      "url": null
+     },
+     "country": {
+      "name": "Страна",
+      "filterValue": "country_china",
+      "value": "Китай",
+      "url": "/catalog/country_china/"
+     },
+     "texture": null,
+     "composition": {
+      "name": "Состав",
+      "filterValue": null,
+      "value": "POLYMETHYLSILSESQUIOXANE, DIMETHICONE, DIMETHICONE/VINYL DIMETHICONE CROSSPOLYMER, PCA DIMETHICONE, SILICA.",
+      "url": null
+     },
+     "instruction": {
+      "name": "Способ применения",
+      "filterValue": null,
+      "value": "Нанесите гель MY CORE ESSENTIALS Magic Shine от CATRICE поверх макияжа на участки, склонные к появлению блеска, например",
+      "url": null
+     },
+     "tone": null,
+     "marking": null,
+     "tag": null,
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_catrice",
+      "value": "CATRICE",
+      "url": "/catalog/brand_catrice/"
+     }
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": false,
+     "quantityOnline": 0,
+     "availableOffline": true,
+     "quantityOffline": 1,
+     "remains": 1,
+     "shopsNumber": 1
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-discount/",
+      "description": "",
+      "name": "Персональная скидка",
+      "title": "-35%",
+      "type": "discount",
+      "img": "",
+      "mobileCode": "msk-personal_discount",
+      "hex": "#FF78B2"
+     },
+     {
+      "url": "/catalog/mark_msk-discount/",
+      "description": "",
+      "name": " Sale",
+      "title": " ",
+      "type": "discount",
+      "img": "",
+      "mobileCode": "msk-discount",
+      "hex": "#FFFFFF"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": {
+     "sum": 111.75,
+     "monthQuantity": 4
+    },
+    "offers": null
+   },
+   {
+    "article": "245384",
+    "name": "Подводка для глаз `CATRICE` INK EYELINER водостойкая тон 010 Stay in black",
+    "description": "Создайте WOW эффект ав макияже глаз: благодаря ультратонкому аппликатору водосто",
+    "url": "/catalog/makiyazh/glaza/podvodki/245384-podvodka-dlya-glaz-catrice-ink-eyeliner-vodostoykaya-ton-010-stay-in-black/",
+    "sort": 25,
+    "favorite": false,
+    "bitrixProductId": 1356796,
+    "bitrixSection": {
+     "id": 2091,
+     "url": "/catalog/category_makiyazh-glaza-podvodki/",
+     "name": "Подводки",
+     "code": "podvodki",
+     "namePath": "Макияж/Глаза/Подводки"
+    },
+    "frisbuyId": 1357262,
+    "pricing": {
+     "basePrice": 419,
+     "totalPrice": 299,
+     "discountTotal": 120,
+     "discountPercent": 29,
+     "priceText": ""
+    },
+    "reviews": {
+     "rating": 5,
+     "amount": 2
+    },
+    "attributes": {
+     "part": {
+      "name": "Область использования",
+      "filterValue": "area_of_use_glaza",
+      "value": "Глаза",
+      "url": "/catalog/area_of_use_glaza/"
+     },
+     "section": [
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_makiyazh",
+       "value": "Макияж",
+       "img": "/upload/iblock/791/79184c9df7870950e39b11a7548e652f.png",
+       "url": "/catalog/category_makiyazh/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_makiyazh-glaza",
+       "value": "Глаза",
+       "img": "/upload/iblock/941/941fb05a13865e0033db831fe9dd1e4e.png",
+       "url": "/catalog/category_makiyazh-glaza/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_makiyazh-glaza-podvodki",
+       "value": "Подводки",
+       "img": "/upload/iblock/59c/59c8e33ee88c7ec9f9414550c3805fc9.png",
+       "url": "/catalog/category_makiyazh-glaza-podvodki/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_korea",
+       "value": "Корея",
+       "img": "/upload/iblock/cd7/cd7c00932d93223e79740f38a1621bfa.png",
+       "url": "/catalog/category_korea/"
+      }
+     ],
+     "skin": null,
+     "weight": {
+      "name": "Вес в упаковке, г.",
+      "filterValue": null,
+      "value": "6",
+      "url": null
+     },
+     "height": {
+      "name": "Высота упаковки, мм",
+      "filterValue": null,
+      "value": "120",
+      "url": null
+     },
+     "width": {
+      "name": "Ширина упаковки, мм",
+      "filterValue": null,
+      "value": "11",
+      "url": null
+     },
+     "length": {
+      "name": "Длина упаковки, мм",
+      "filterValue": null,
+      "value": "11",
+      "url": null
+     },
+     "country": {
+      "name": "Страна",
+      "filterValue": "country_poland",
+      "value": "Польша",
+      "url": "/catalog/country_poland/"
+     },
+     "texture": {
+      "name": "Текстура",
+      "filterValue": "texture_zhidkaya",
+      "value": "Жидкая",
+      "url": "/catalog/texture_zhidkaya/"
+     },
+     "composition": {
+      "name": "Состав",
+      "filterValue": null,
+      "value": "AQUA (WATER), PROPANEDIOL, ACRYLATES/ETHYLHEXYL ACRYLATE COPOLYMER, AMMONIUM ACRYLATES COPOLYMER, ACRYLATES COPOLYMER, C",
+      "url": null
+     },
+     "instruction": {
+      "name": "Способ применения",
+      "filterValue": null,
+      "value": "Тонкий аппликатор жидкой подводки для глаз Ink Eyeliner Waterproof 010 Best in Black от Catrice создает сдержанные акцен",
+      "url": null
+     },
+     "tone": {
+      "name": "Тон",
+      "filterValue": "tone_245384",
+      "value": "чёрный",
+      "url": "/catalog/tone_245384/"
+     },
+     "marking": null,
+     "tag": null,
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_catrice",
+      "value": "CATRICE",
+      "url": "/catalog/brand_catrice/"
+     }
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": false,
+     "quantityOnline": 0,
+     "availableOffline": true,
+     "quantityOffline": 4,
+     "remains": 4,
+     "shopsNumber": 3
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-discount/",
+      "description": "",
+      "name": "Персональная скидка",
+      "title": "-29%",
+      "type": "discount",
+      "img": "",
+      "mobileCode": "msk-personal_discount",
+      "hex": "#FF78B2"
+     },
+     {
+      "url": "/catalog/mark_msk-discount/",
+      "description": "",
+      "name": " Sale",
+      "title": " ",
+      "type": "discount",
+      "img": "",
+      "mobileCode": "msk-discount",
+      "hex": "#FFFFFF"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": null,
+    "offers": null
+   },
+   {
+    "article": "259115",
+    "name": "Палетка румян для лица `CATRICE` BLUR BALM тон 010 Blush blindness",
+    "description": "Любители румян, эта палетка для вас! В палетке румян Blur Balm 010 Blush Blindne",
+    "url": "/catalog/makiyazh/litso/rumyana/259115-paletka-rumyan-dlya-litsa-catrice-blur-balm-ton-010-blush-blindness/",
+    "sort": 24,
+    "favorite": false,
+    "bitrixProductId": 1464145,
+    "bitrixSection": {
+     "id": 957,
+     "url": "/catalog/category_makiyazh-litso-rumyana/",
+     "name": "Румяна",
+     "code": "rumyana",
+     "namePath": "Макияж/Лицо/Румяна"
+    },
+    "frisbuyId": 1464151,
+    "pricing": {
+     "basePrice": 733,
+     "totalPrice": 499,
+     "discountTotal": 234,
+     "discountPercent": 32,
+     "priceText": ""
+    },
+    "reviews": {
+     "rating": 5,
+     "amount": 3
+    },
+    "attributes": {
+     "part": {
+      "name": "Область использования",
+      "filterValue": "area_of_use_litso",
+      "value": "Лицо",
+      "url": "/catalog/area_of_use_litso/"
+     },
+     "section": [
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_makiyazh",
+       "value": "Макияж",
+       "img": "/upload/iblock/791/79184c9df7870950e39b11a7548e652f.png",
+       "url": "/catalog/category_makiyazh/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_makiyazh-litso",
+       "value": "Лицо",
+       "img": "/upload/iblock/a15/a159ca2047da3a115f32b74b12ee7124.png",
+       "url": "/catalog/category_makiyazh-litso/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_makiyazh-litso-rumyana",
+       "value": "Румяна",
+       "img": "/upload/iblock/b2e/b2e5565c9889817b6e1c372bfad0dfc1.png",
+       "url": "/catalog/category_makiyazh-litso-rumyana/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_korea",
+       "value": "Корея",
+       "img": "/upload/iblock/cd7/cd7c00932d93223e79740f38a1621bfa.png",
+       "url": "/catalog/category_korea/"
+      }
+     ],
+     "skin": {
+      "name": "Тип кожи",
+      "filterValue": "skin_type_vse-tipy-kozhi",
+      "value": "Все типы кожи",
+      "url": "/catalog/skin_type_vse-tipy-kozhi/"
+     },
+     "weight": {
+      "name": "Вес в упаковке, г.",
+      "filterValue": null,
+      "value": "445",
+      "url": null
+     },
+     "height": {
+      "name": "Высота упаковки, мм",
+      "filterValue": null,
+      "value": "219",
+      "url": null
+     },
+     "width": {
+      "name": "Ширина упаковки, мм",
+      "filterValue": null,
+      "value": "79",
+      "url": null
+     },
+     "length": {
+      "name": "Длина упаковки, мм",
+      "filterValue": null,
+      "value": "39",
+      "url": null
+     },
+     "country": {
+      "name": "Страна",
+      "filterValue": "country_china",
+      "value": "Китай",
+      "url": "/catalog/country_china/"
+     },
+     "texture": {
+      "name": "Текстура",
+      "filterValue": "texture_pudrovaya",
+      "value": "Пудровая",
+      "url": "/catalog/texture_pudrovaya/"
+     },
+     "composition": {
+      "name": "Состав",
+      "filterValue": null,
+      "value": "INGREDIENTS – 1, 2: DIMETHICONE, ETHYLHEXYLPALMITATE, SILICA, VP/HEXADECENE COPOLYMER, HYDROGENATED POLYISOBUTENE,HELIAN",
+      "url": null
+     },
+     "instruction": {
+      "name": "Способ применения",
+      "filterValue": null,
+      "value": "Выберите оттенок из палетки румян или смешайте несколько оттенков для получения многомерного эффекта. Нанесите румяна мя",
+      "url": null
+     },
+     "tone": {
+      "name": "Тон",
+      "filterValue": "tone_259115",
+      "value": "разноцветные",
+      "url": "/catalog/tone_259115/"
+     },
+     "marking": null,
+     "tag": null,
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_catrice",
+      "value": "CATRICE",
+      "url": "/catalog/brand_catrice/"
+     }
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": false,
+     "quantityOnline": 0,
+     "availableOffline": true,
+     "quantityOffline": 3,
+     "remains": 3,
+     "shopsNumber": 2
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-discount/",
+      "description": "",
+      "name": "Персональная скидка",
+      "title": "-32%",
+      "type": "discount",
+      "img": "",
+      "mobileCode": "msk-personal_discount",
+      "hex": "#FF78B2"
+     },
+     {
+      "url": "/catalog/mark_msk-discount/",
+      "description": "",
+      "name": " Sale",
+      "title": " ",
+      "type": "discount",
+      "img": "",
+      "mobileCode": "msk-discount",
+      "hex": "#FFFFFF"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": {
+     "sum": 124.75,
+     "monthQuantity": 4
+    },
+    "offers": null
+   },
+   {
+    "article": "259105",
+    "name": "Праймер для лица `CATRICE` SOFT GLAM FOAM пенящийся с сияющим финишем тон 010 Beyond the cloud",
+    "description": "Подготовка к макияжу стала еще более эффектной! Праймер для лица Soft Glam Foam ",
+    "url": "/catalog/makiyazh/litso/baza_pod_makiyazh/259105-praymer-dlya-litsa-catrice-soft-glam-foam-penyashchiysya-s-siyayushchim-finishem-ton-010-beyond-the-/",
+    "sort": 22,
+    "favorite": false,
+    "bitrixProductId": 1463932,
+    "bitrixSection": {
+     "id": 2094,
+     "url": "/catalog/category_makiyazh-litso-baza_pod_makiyazh/",
+     "name": "Праймеры",
+     "code": "baza_pod_makiyazh",
+     "namePath": "Макияж/Лицо/Праймеры"
+    },
+    "frisbuyId": 1463949,
+    "pricing": {
+     "basePrice": 689,
+     "totalPrice": 499,
+     "discountTotal": 190,
+     "discountPercent": 28,
+     "priceText": ""
+    },
+    "reviews": {
+     "rating": 5,
+     "amount": 2
+    },
+    "attributes": {
+     "part": {
+      "name": "Область использования",
+      "filterValue": "area_of_use_litso",
+      "value": "Лицо",
+      "url": "/catalog/area_of_use_litso/"
+     },
+     "section": [
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_makiyazh",
+       "value": "Макияж",
+       "img": "/upload/iblock/791/79184c9df7870950e39b11a7548e652f.png",
+       "url": "/catalog/category_makiyazh/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_makiyazh-litso",
+       "value": "Лицо",
+       "img": "/upload/iblock/a15/a159ca2047da3a115f32b74b12ee7124.png",
+       "url": "/catalog/category_makiyazh-litso/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_makiyazh-litso-baza_pod_makiyazh",
+       "value": "Праймеры",
+       "img": "/upload/iblock/269/2699da5791407c031365f3deb27e92bb.png",
+       "url": "/catalog/category_makiyazh-litso-baza_pod_makiyazh/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_korea",
+       "value": "Корея",
+       "img": "/upload/iblock/cd7/cd7c00932d93223e79740f38a1621bfa.png",
+       "url": "/catalog/category_korea/"
+      }
+     ],
+     "skin": {
+      "name": "Тип кожи",
+      "filterValue": "skin_type_vse-tipy-kozhi",
+      "value": "Все типы кожи",
+      "url": "/catalog/skin_type_vse-tipy-kozhi/"
+     },
+     "weight": {
+      "name": "Вес в упаковке, г.",
+      "filterValue": null,
+      "value": "60",
+      "url": null
+     },
+     "height": {
+      "name": "Высота упаковки, мм",
+      "filterValue": null,
+      "value": "108",
+      "url": null
+     },
+     "width": {
+      "name": "Ширина упаковки, мм",
+      "filterValue": null,
+      "value": "32",
+      "url": null
+     },
+     "length": {
+      "name": "Длина упаковки, мм",
+      "filterValue": null,
+      "value": "32",
+      "url": null
+     },
+     "country": {
+      "name": "Страна",
+      "filterValue": "country_spain",
+      "value": "Испания",
+      "url": "/catalog/country_spain/"
+     },
+     "texture": {
+      "name": "Текстура",
+      "filterValue": "texture_zhidkaya",
+      "value": "Жидкая",
+      "url": "/catalog/texture_zhidkaya/"
+     },
+     "composition": {
+      "name": "Состав",
+      "filterValue": null,
+      "value": "INGREDIENTS: AQUA (WATER), PROPANEDIOL, ISOPENTYLDIOL, GLYCERIN, PYRUS MALUS (APPLE) FRUIT EXTRACT, INULIN, VACCINIUM MA",
+      "url": null
+     },
+     "instruction": {
+      "name": "Способ применения",
+      "filterValue": null,
+      "value": "Нанесите 1-2 нажатия праймера на чистую кожу и аккуратно распределите круговыми движениями. Для достижения наилучших рез",
+      "url": null
+     },
+     "tone": {
+      "name": "Тон",
+      "filterValue": "tone_259105",
+      "value": "прозрачный",
+      "url": "/catalog/tone_259105/"
+     },
+     "marking": null,
+     "tag": null,
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_catrice",
+      "value": "CATRICE",
+      "url": "/catalog/brand_catrice/"
+     }
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": false,
+     "quantityOnline": 0,
+     "availableOffline": true,
+     "quantityOffline": 5,
+     "remains": 5,
+     "shopsNumber": 3
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-discount/",
+      "description": "",
+      "name": "Персональная скидка",
+      "title": "-28%",
+      "type": "discount",
+      "img": "",
+      "mobileCode": "msk-personal_discount",
+      "hex": "#FF78B2"
+     },
+     {
+      "url": "/catalog/mark_msk-discount/",
+      "description": "",
+      "name": " Sale",
+      "title": " ",
+      "type": "discount",
+      "img": "",
+      "mobileCode": "msk-discount",
+      "hex": "#FFFFFF"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": {
+     "sum": 124.75,
+     "monthQuantity": 4
+    },
+    "offers": null
+   }
+  ],
+  "navigation": {
+   "totalOffersCount": 92,
+   "totalPagesCount": 5,
+   "pageSize": 20,
+   "currentPage": 1
+  }
+ },
+ "urls": {
+  "site": "/catalog/promotion_new_sale_dm_08_09_13_10_2026_im_catrice_essence_09_19_2026_15_05_199579/",
+  "api": {
+   "filter": "/api/v3/catalog/promotion_new_sale_dm_08_09_13_10_2026_im_catrice_essence_09_19_2026_15_05_199579/filter",
+   "listing": "/api/v3/catalog/promotion_new_sale_dm_08_09_13_10_2026_im_catrice_essence_09_19_2026_15_05_199579/listing",
+   "seo": "/api/v3/catalog/promotion_new_sale_dm_08_09_13_10_2026_im_catrice_essence_09_19_2026_15_05_199579/seo"
+  },
+  "redirect": null
+ },
+ "redirectUrl": null,
+ "timings": {
+  "summary": 0.32351493835449
+ }
+}

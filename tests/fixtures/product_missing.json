@@ -1,0 +1,17 @@
+{
+ "status": 404,
+ "content_type": "application/problem+json",
+ "body": {
+  "type": "ProductNotFoundError",
+  "status": 404,
+  "title": "Товар не найден",
+  "detail": "Товар по указанным параметрам не найден",
+  "instance": "/api/v3/catalog/product/999999999",
+  "errors": [
+   {
+    "detail": "999999999",
+    "pointer": "article"
+   }
+  ]
+ }
+}

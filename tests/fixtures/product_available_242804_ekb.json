@@ -1,0 +1,249 @@
+{
+ "_note": "POST /api/v2/shops/product-available productAvailable {article: 242804}, куки региона Екатеринбурга",
+ "jsonrpc": "2.0",
+ "result": {
+  "shops": [
+   {
+    "id": "1250382",
+    "address": "пр-т Ленина, д. 38а",
+    "city_name": "Екатеринбург",
+    "detail_picture": "/upload/iblock/e4a/e4ad9dbe77044388385eacd64fb709a3.jpg",
+    "latitude": "56.8387",
+    "longitude": "60.611",
+    "name": "на Ленина 38а",
+    "amount": 3,
+    "amount_text": "средне",
+    "is_large_stock": true,
+    "stations": [],
+    "working_time": [
+     {
+      "from": "10:00",
+      "to": "22:00",
+      "day": "Ежедневно",
+      "weekend": ""
+     }
+    ],
+    "filterValue": "store_28158",
+    "listingFilteredUrl": "/catalog/?filters[]=store_28158",
+    "listingStoreUrl": "/catalog/store_28158/"
+   },
+   {
+    "id": "1282194",
+    "address": "Екатеринбург, ул. 8 Марта, д. 46",
+    "city_name": "Екатеринбург",
+    "detail_picture": "",
+    "latitude": "56.8291",
+    "longitude": "60.5989",
+    "name": "на 8 Марта в ТЦ Гринвич",
+    "amount": 2,
+    "amount_text": "мало",
+    "is_large_stock": false,
+    "stations": [],
+    "working_time": [
+     {
+      "from": "10:00",
+      "to": "22:00",
+      "day": "Ежедневно",
+      "weekend": ""
+     }
+    ],
+    "filterValue": "store_33722",
+    "listingFilteredUrl": "/catalog/?filters[]=store_33722",
+    "listingStoreUrl": "/catalog/store_33722/"
+   },
+   {
+    "id": "1325494",
+    "address": "Екатеринбург, ул. Вайнера, д. 16",
+    "city_name": "Екатеринбург",
+    "detail_picture": "",
+    "latitude": "56.835",
+    "longitude": "60.5949",
+    "name": "на Вайнера",
+    "amount": 7,
+    "amount_text": "много",
+    "is_large_stock": true,
+    "stations": [],
+    "working_time": [
+     {
+      "from": "10:00",
+      "to": "22:00",
+      "day": "Ежедневно",
+      "weekend": ""
+     }
+    ],
+    "filterValue": "store_35591",
+    "listingFilteredUrl": "/catalog/?filters[]=store_35591",
+    "listingStoreUrl": "/catalog/store_35591/"
+   },
+   {
+    "id": "1329800",
+    "address": "Екатеринбург, ул. 8 Марта, д. 118",
+    "city_name": "Екатеринбург",
+    "detail_picture": "",
+    "latitude": "56.8128",
+    "longitude": "60.6079",
+    "name": "на 8 Марта",
+    "amount": 3,
+    "amount_text": "средне",
+    "is_large_stock": true,
+    "stations": [],
+    "working_time": [
+     {
+      "from": "09:00",
+      "to": "21:00",
+      "day": "Ежедневно",
+      "weekend": ""
+     }
+    ],
+    "filterValue": "store_35616",
+    "listingFilteredUrl": "/catalog/?filters[]=store_35616",
+    "listingStoreUrl": "/catalog/store_35616/"
+   },
+   {
+    "id": "1331851",
+    "address": "Екатеринбург, ул. Кузнецова, д. 3",
+    "city_name": "Екатеринбург",
+    "detail_picture": "",
+    "latitude": "56.8876",
+    "longitude": "60.6062",
+    "name": "на Кузнецова",
+    "amount": 2,
+    "amount_text": "мало",
+    "is_large_stock": false,
+    "stations": [],
+    "working_time": [
+     {
+      "from": "10:00",
+      "to": "22:00",
+      "day": "Ежедневно",
+      "weekend": ""
+     }
+    ],
+    "filterValue": "store_35630",
+    "listingFilteredUrl": "/catalog/?filters[]=store_35630",
+    "listingStoreUrl": "/catalog/store_35630/"
+   },
+   {
+    "id": "1334895",
+    "address": "Екатеринбург. ул. Свердлова, д. 66",
+    "city_name": "Екатеринбург",
+    "detail_picture": "/upload/iblock/98b/98b843fc4d84062cf1e72aab63a860d1.jpg",
+    "latitude": "56.8556",
+    "longitude": "60.6047",
+    "name": "на Свердлова",
+    "amount": 1,
+    "amount_text": "мало",
+    "is_large_stock": false,
+    "stations": [],
+    "working_time": [
+     {
+      "from": "09:00",
+      "to": "21:00",
+      "day": "Ежедневно",
+      "weekend": ""
+     }
+    ],
+    "filterValue": "store_35633",
+    "listingFilteredUrl": "/catalog/?filters[]=store_35633",
+    "listingStoreUrl": "/catalog/store_35633/"
+   },
+   {
+    "id": "1335293",
+    "address": "Первоуральск, улица Береговая, дом 1",
+    "city_name": "Первоуральск",
+    "detail_picture": "/upload/iblock/028/02896b8b07ca7e59e43ba3b45ffbe33c.jpg",
+    "latitude": "56.9157",
+    "longitude": "59.9472",
+    "name": "на Береговой в ТЦ Первый",
+    "amount": 1,
+    "amount_text": "мало",
+    "is_large_stock": false,
+    "stations": [],
+    "working_time": [
+     {
+      "from": "10:00",
+      "to": "21:00",
+      "day": "Ежедневно",
+      "weekend": ""
+     }
+    ],
+    "filterValue": "store_35642",
+    "listingFilteredUrl": "/catalog/?filters[]=store_35642",
+    "listingStoreUrl": "/catalog/store_35642/"
+   },
+   {
+    "id": "1341057",
+    "address": "Екатеринбург, ул. Репина, д. 94",
+    "city_name": "Екатеринбург",
+    "detail_picture": "",
+    "latitude": "56.8171",
+    "longitude": "60.5385",
+    "name": "на Репина в ТЦ Радуга Парк",
+    "amount": 3,
+    "amount_text": "средне",
+    "is_large_stock": true,
+    "stations": [],
+    "working_time": [
+     {
+      "from": "10:00",
+      "to": "22:00",
+      "day": "Ежедневно",
+      "weekend": ""
+     }
+    ],
+    "filterValue": "store_35661",
+    "listingFilteredUrl": "/catalog/?filters[]=store_35661",
+    "listingStoreUrl": "/catalog/store_35661/"
+   },
+   {
+    "id": "1369371",
+    "address": "Екатеринбург, ул. Вильгельма де Геннина, д. 33",
+    "city_name": "Екатеринбург",
+    "detail_picture": "",
+    "latitude": "56.7914",
+    "longitude": "60.5196",
+    "name": "на улице Вильгельма де Геннина",
+    "amount": 3,
+    "amount_text": "средне",
+    "is_large_stock": true,
+    "stations": [],
+    "working_time": [
+     {
+      "from": "10:00",
+      "to": "22:00",
+      "day": "Ежедневно",
+      "weekend": ""
+     }
+    ],
+    "filterValue": "store_35746",
+    "listingFilteredUrl": "/catalog/?filters[]=store_35746",
+    "listingStoreUrl": "/catalog/store_35746/"
+   },
+   {
+    "id": "1413310",
+    "address": "Екатеринбург Космонавтов 108Д",
+    "city_name": "Екатеринбург",
+    "detail_picture": "/upload/iblock/da8/da8da6eb721a5ea016f0872d5da11fe5.jpg",
+    "latitude": "56.9167",
+    "longitude": "60.6132",
+    "name": "По улице Космонавтов в ТЦ Веер Молл",
+    "amount": 3,
+    "amount_text": "средне",
+    "is_large_stock": true,
+    "stations": [],
+    "working_time": [
+     {
+      "from": "10:00",
+      "to": "22:00",
+      "day": "Ежедневно",
+      "weekend": ""
+     }
+    ],
+    "filterValue": "store_36305",
+    "listingFilteredUrl": "/catalog/?filters[]=store_36305",
+    "listingStoreUrl": "/catalog/store_36305/"
+   }
+  ]
+ },
+ "id": "x-1"
+}

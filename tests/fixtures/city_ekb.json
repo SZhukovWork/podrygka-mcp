@@ -1,0 +1,14 @@
+{
+ "_note": "POST /api/v2/location/city/search getCity {search: Екатеринбург}",
+ "jsonrpc": "2.0",
+ "result": [
+  {
+   "city_name": "Екатеринбург",
+   "region": "Свердловская область",
+   "fias": "2763c110-cb8b-416a-9dac-ad28a55b4402",
+   "region_fias": "92b30014-4d52-4e2e-892d-928142b924bf",
+   "id": "208757"
+  }
+ ],
+ "id": "x-1"
+}

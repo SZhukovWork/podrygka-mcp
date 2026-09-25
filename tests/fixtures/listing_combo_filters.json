@@ -1,0 +1,1285 @@
+{
+ "_note": "GET /api/v3/catalog/price_to-2000/store_28158/brand_kensuko/category_volosy-shampuni/listing?search=шампунь&sorting=price_asc",
+ "listing": {
+  "offers": [
+   {
+    "article": "241949",
+    "name": "Шампунь для волос `KENSUKO` BUBBLE GUM для объема 300 мл",
+    "description": "Шампунь для волос KENSUKO BUBBLE GUM для объема с упоительно сладким ароматом жв",
+    "url": "/catalog/volosy/shampuni/241949-shampun-dlya-volos-kensuko-bubble-gum-dlya-obema-300-ml/",
+    "sort": 23,
+    "favorite": false,
+    "bitrixProductId": 1356825,
+    "bitrixSection": {
+     "id": 968,
+     "url": "/catalog/category_volosy-shampuni/",
+     "name": "Шампуни ",
+     "code": "shampuni",
+     "namePath": "Волосы/Шампуни "
+    },
+    "frisbuyId": 1356824,
+    "pricing": {
+     "basePrice": 999,
+     "totalPrice": 719,
+     "discountTotal": 280,
+     "discountPercent": 28,
+     "priceText": ""
+    },
+    "reviews": {
+     "rating": 3.6,
+     "amount": 13
+    },
+    "attributes": {
+     "part": {
+      "name": "Область использования",
+      "filterValue": "area_of_use_volosy",
+      "value": "Волосы",
+      "url": "/catalog/area_of_use_volosy/"
+     },
+     "section": [
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy",
+       "value": "Волосы",
+       "img": "/upload/iblock/7eb/7eb6726a0bb2e776fc2cd5ac24dd0ba6.png",
+       "url": "/catalog/category_volosy/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy-shampuni",
+       "value": "Шампуни ",
+       "img": "/upload/iblock/e1b/e1bb48fe44cba72bfedb26945480c531.png",
+       "url": "/catalog/category_volosy-shampuni/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_korea",
+       "value": "Корея",
+       "img": "/upload/iblock/cd7/cd7c00932d93223e79740f38a1621bfa.png",
+       "url": "/catalog/category_korea/"
+      }
+     ],
+     "skin": {
+      "name": "Тип кожи",
+      "filterValue": "skin_type_vse-tipy-kozhi",
+      "value": "Все типы кожи",
+      "url": "/catalog/skin_type_vse-tipy-kozhi/"
+     },
+     "weight": {
+      "name": "Вес в упаковке, г.",
+      "filterValue": null,
+      "value": "500",
+      "url": null
+     },
+     "height": {
+      "name": "Высота упаковки, мм",
+      "filterValue": null,
+      "value": "195",
+      "url": null
+     },
+     "width": {
+      "name": "Ширина упаковки, мм",
+      "filterValue": null,
+      "value": "75",
+      "url": null
+     },
+     "length": {
+      "name": "Длина упаковки, мм",
+      "filterValue": null,
+      "value": "45",
+      "url": null
+     },
+     "country": {
+      "name": "Страна",
+      "filterValue": "country_china",
+      "value": "Китай",
+      "url": "/catalog/country_china/"
+     },
+     "texture": {
+      "name": "Текстура",
+      "filterValue": "texture_kremoobraznaya",
+      "value": "Кремообразная",
+      "url": "/catalog/texture_kremoobraznaya/"
+     },
+     "composition": {
+      "name": "Состав",
+      "filterValue": null,
+      "value": "AQUA, LACTIC ACID, CETEARYL ALCOHOL, CETYL ALCOHOL, GLYCERIN, KERATIN, HYDRO- XYPROPYLTRIMONIUM HYDROLYZED WHEAT PROTEIN",
+      "url": null
+     },
+     "instruction": {
+      "name": "Способ применения",
+      "filterValue": null,
+      "value": "Обильно намочить волосы водой, нанести шампунь массажными движениями на кожу головы и локоны от корней к кончикам. Тщате",
+      "url": null
+     },
+     "tone": null,
+     "marking": null,
+     "tag": null,
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_kensuko",
+      "value": "KENSUKO",
+      "url": "/catalog/brand_kensuko/"
+     }
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": true,
+     "quantityOnline": 25,
+     "availableOffline": true,
+     "quantityOffline": 41,
+     "remains": 66,
+     "shopsNumber": 12
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-discount/",
+      "description": "",
+      "name": "Персональная скидка",
+      "title": "-28%",
+      "type": "discount",
+      "img": "",
+      "mobileCode": "msk-personal_discount",
+      "hex": "#FF78B2"
+     },
+     {
+      "url": "/catalog/mark_msk-gift/",
+      "description": "",
+      "name": "Подарок",
+      "title": null,
+      "type": "gift",
+      "img": "/upload/medialibrary/shildy/gift.svg",
+      "mobileCode": "msk-gift",
+      "hex": "#74C3F7"
+     },
+     {
+      "url": "/catalog/mark_msk-benefit/",
+      "description": "",
+      "name": "Выгодная цена",
+      "title": null,
+      "type": "benefit",
+      "img": "/upload/medialibrary/shildy/wallet.svg",
+      "mobileCode": "msk-benefit",
+      "hex": "#74C3F7"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": {
+     "sum": 179.75,
+     "monthQuantity": 4
+    },
+    "offers": null
+   },
+   {
+    "article": "146595",
+    "name": "Шампунь для волос `KENSUKO` SILIKON-FREE 300 мл",
+    "description": "Шампунь для волос KENSUKO SILIKON-FREE на основе профессиональной формулы без аг",
+    "url": "/catalog/volosy/shampuni/146595-shampun-dlya-volos-kensuko-silikon-free-300-ml/",
+    "sort": 15,
+    "favorite": false,
+    "bitrixProductId": 115945,
+    "bitrixSection": {
+     "id": 968,
+     "url": "/catalog/category_volosy-shampuni/",
+     "name": "Шампуни ",
+     "code": "shampuni",
+     "namePath": "Волосы/Шампуни "
+    },
+    "frisbuyId": 115941,
+    "pricing": {
+     "basePrice": 999,
+     "totalPrice": 999,
+     "priceText": ""
+    },
+    "reviews": {
+     "rating": 4.4,
+     "amount": 12
+    },
+    "attributes": {
+     "part": {
+      "name": "Область использования",
+      "filterValue": "area_of_use_volosy",
+      "value": "Волосы",
+      "url": "/catalog/area_of_use_volosy/"
+     },
+     "section": [
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy",
+       "value": "Волосы",
+       "img": "/upload/iblock/7eb/7eb6726a0bb2e776fc2cd5ac24dd0ba6.png",
+       "url": "/catalog/category_volosy/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy-shampuni",
+       "value": "Шампуни ",
+       "img": "/upload/iblock/e1b/e1bb48fe44cba72bfedb26945480c531.png",
+       "url": "/catalog/category_volosy-shampuni/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_korea",
+       "value": "Корея",
+       "img": "/upload/iblock/cd7/cd7c00932d93223e79740f38a1621bfa.png",
+       "url": "/catalog/category_korea/"
+      }
+     ],
+     "skin": {
+      "name": "Тип кожи",
+      "filterValue": "skin_type_vse-tipy-kozhi",
+      "value": "Все типы кожи",
+      "url": "/catalog/skin_type_vse-tipy-kozhi/"
+     },
+     "weight": {
+      "name": "Вес в упаковке, г.",
+      "filterValue": null,
+      "value": "325",
+      "url": null
+     },
+     "height": {
+      "name": "Высота упаковки, мм",
+      "filterValue": null,
+      "value": "195",
+      "url": null
+     },
+     "width": {
+      "name": "Ширина упаковки, мм",
+      "filterValue": null,
+      "value": "75",
+      "url": null
+     },
+     "length": {
+      "name": "Длина упаковки, мм",
+      "filterValue": null,
+      "value": "45",
+      "url": null
+     },
+     "country": {
+      "name": "Страна",
+      "filterValue": "country_china",
+      "value": "Китай",
+      "url": "/catalog/country_china/"
+     },
+     "texture": {
+      "name": "Текстура",
+      "filterValue": "texture_zhidkaya",
+      "value": "Жидкая",
+      "url": "/catalog/texture_zhidkaya/"
+     },
+     "composition": {
+      "name": "Состав",
+      "filterValue": null,
+      "value": "Aqua, Sodium Laureth Sulfate, Cocamide DEA, Cocamidopropyl Betaine, Glycerin, POLYQUATERNIUM-7, Fragrance, PHENOXYETHANO",
+      "url": null
+     },
+     "instruction": {
+      "name": "Способ применения",
+      "filterValue": null,
+      "value": "Обильно намочить волосы водой, нанести шампунь массажными движениями на волосы и кожу головы. Тщательно смыть водой. Тол",
+      "url": null
+     },
+     "tone": null,
+     "marking": null,
+     "tag": null,
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_kensuko",
+      "value": "KENSUKO",
+      "url": "/catalog/brand_kensuko/"
+     }
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": true,
+     "quantityOnline": 16,
+     "availableOffline": true,
+     "quantityOffline": 37,
+     "remains": 53,
+     "shopsNumber": 12
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-gift/",
+      "description": "",
+      "name": "Подарок",
+      "title": null,
+      "type": "gift",
+      "img": "/upload/medialibrary/shildy/gift.svg",
+      "mobileCode": "msk-gift",
+      "hex": "#74C3F7"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": {
+     "sum": 249.75,
+     "monthQuantity": 4
+    },
+    "offers": null
+   },
+   {
+    "article": "196096",
+    "name": "Шампунь для волос `KENSUKO` KERATIN 400 мл",
+    "description": "Шампунь для волос KENSUKO KERATIN на основе кератинового комплекса с аминокислот",
+    "url": "/catalog/volosy/shampuni/196096-shampun-dlya-volos-kensuko-keratin-400-ml/",
+    "sort": 26,
+    "favorite": false,
+    "bitrixProductId": 1099618,
+    "bitrixSection": {
+     "id": 968,
+     "url": "/catalog/category_volosy-shampuni/",
+     "name": "Шампуни ",
+     "code": "shampuni",
+     "namePath": "Волосы/Шампуни "
+    },
+    "frisbuyId": 1099614,
+    "pricing": {
+     "basePrice": 1169,
+     "totalPrice": 1169,
+     "priceText": ""
+    },
+    "reviews": {
+     "rating": 4,
+     "amount": 19
+    },
+    "attributes": {
+     "part": {
+      "name": "Область использования",
+      "filterValue": "area_of_use_volosy",
+      "value": "Волосы",
+      "url": "/catalog/area_of_use_volosy/"
+     },
+     "section": [
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy",
+       "value": "Волосы",
+       "img": "/upload/iblock/7eb/7eb6726a0bb2e776fc2cd5ac24dd0ba6.png",
+       "url": "/catalog/category_volosy/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy-shampuni",
+       "value": "Шампуни ",
+       "img": "/upload/iblock/e1b/e1bb48fe44cba72bfedb26945480c531.png",
+       "url": "/catalog/category_volosy-shampuni/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_korea",
+       "value": "Корея",
+       "img": "/upload/iblock/cd7/cd7c00932d93223e79740f38a1621bfa.png",
+       "url": "/catalog/category_korea/"
+      }
+     ],
+     "skin": {
+      "name": "Тип кожи",
+      "filterValue": "skin_type_vse-tipy-kozhi",
+      "value": "Все типы кожи",
+      "url": "/catalog/skin_type_vse-tipy-kozhi/"
+     },
+     "weight": {
+      "name": "Вес в упаковке, г.",
+      "filterValue": null,
+      "value": "586",
+      "url": null
+     },
+     "height": {
+      "name": "Высота упаковки, мм",
+      "filterValue": null,
+      "value": "180",
+      "url": null
+     },
+     "width": {
+      "name": "Ширина упаковки, мм",
+      "filterValue": null,
+      "value": "100",
+      "url": null
+     },
+     "length": {
+      "name": "Длина упаковки, мм",
+      "filterValue": null,
+      "value": "100",
+      "url": null
+     },
+     "country": {
+      "name": "Страна",
+      "filterValue": "country_china",
+      "value": "Китай",
+      "url": "/catalog/country_china/"
+     },
+     "texture": {
+      "name": "Текстура",
+      "filterValue": "texture_kremoobraznaya",
+      "value": "Кремообразная",
+      "url": "/catalog/texture_kremoobraznaya/"
+     },
+     "composition": {
+      "name": "Состав",
+      "filterValue": null,
+      "value": "AQUA, SODIUM LAURETH SULFATE, COCAMIDE METHYL MEA, COCAMIDOPROPYL BETAINE, DIMETHICONE, GLYCERIN, GUAR HYDROXYPROPYLTRIM",
+      "url": null
+     },
+     "instruction": {
+      "name": "Способ применения",
+      "filterValue": null,
+      "value": "Обильно намочить волосы водой, нанести шампунь массажными движениями на кожу головы и локоны от корней к кончикам. Тщате",
+      "url": null
+     },
+     "tone": null,
+     "marking": null,
+     "tag": null,
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_kensuko",
+      "value": "KENSUKO",
+      "url": "/catalog/brand_kensuko/"
+     }
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": true,
+     "quantityOnline": 22,
+     "availableOffline": true,
+     "quantityOffline": 42,
+     "remains": 64,
+     "shopsNumber": 12
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-gift/",
+      "description": "",
+      "name": "Подарок",
+      "title": null,
+      "type": "gift",
+      "img": "/upload/medialibrary/shildy/gift.svg",
+      "mobileCode": "msk-gift",
+      "hex": "#74C3F7"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": {
+     "sum": 292.25,
+     "monthQuantity": 4
+    },
+    "offers": null
+   },
+   {
+    "article": "196509",
+    "name": "Шампунь для волос `KENSUKO` COLLAGEN для лишенных объема и тонких волос 400 мл",
+    "description": "Шампунь для волос KENSUKO COLLAGEN для лишенных объема и тонких волос бережно оч",
+    "url": "/catalog/volosy/shampuni/196509-shampun-dlya-volos-kensuko-collagen-dlya-lishennykh-obema-i-tonkikh-volos-400-ml/",
+    "sort": 52,
+    "favorite": false,
+    "bitrixProductId": 1143094,
+    "bitrixSection": {
+     "id": 968,
+     "url": "/catalog/category_volosy-shampuni/",
+     "name": "Шампуни ",
+     "code": "shampuni",
+     "namePath": "Волосы/Шампуни "
+    },
+    "frisbuyId": 1143090,
+    "pricing": {
+     "basePrice": 1169,
+     "totalPrice": 1169,
+     "priceText": ""
+    },
+    "reviews": {
+     "rating": 4.6,
+     "amount": 17
+    },
+    "attributes": {
+     "part": {
+      "name": "Область использования",
+      "filterValue": "area_of_use_volosy",
+      "value": "Волосы",
+      "url": "/catalog/area_of_use_volosy/"
+     },
+     "section": [
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy",
+       "value": "Волосы",
+       "img": "/upload/iblock/7eb/7eb6726a0bb2e776fc2cd5ac24dd0ba6.png",
+       "url": "/catalog/category_volosy/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy-shampuni",
+       "value": "Шампуни ",
+       "img": "/upload/iblock/e1b/e1bb48fe44cba72bfedb26945480c531.png",
+       "url": "/catalog/category_volosy-shampuni/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_korea",
+       "value": "Корея",
+       "img": "/upload/iblock/cd7/cd7c00932d93223e79740f38a1621bfa.png",
+       "url": "/catalog/category_korea/"
+      }
+     ],
+     "skin": {
+      "name": "Тип кожи",
+      "filterValue": "skin_type_vse-tipy-kozhi",
+      "value": "Все типы кожи",
+      "url": "/catalog/skin_type_vse-tipy-kozhi/"
+     },
+     "weight": {
+      "name": "Вес в упаковке, г.",
+      "filterValue": null,
+      "value": "586",
+      "url": null
+     },
+     "height": {
+      "name": "Высота упаковки, мм",
+      "filterValue": null,
+      "value": "180",
+      "url": null
+     },
+     "width": {
+      "name": "Ширина упаковки, мм",
+      "filterValue": null,
+      "value": "100",
+      "url": null
+     },
+     "length": {
+      "name": "Длина упаковки, мм",
+      "filterValue": null,
+      "value": "100",
+      "url": null
+     },
+     "country": {
+      "name": "Страна",
+      "filterValue": "country_china",
+      "value": "Китай",
+      "url": "/catalog/country_china/"
+     },
+     "texture": {
+      "name": "Текстура",
+      "filterValue": "texture_kremoobraznaya",
+      "value": "Кремообразная",
+      "url": "/catalog/texture_kremoobraznaya/"
+     },
+     "composition": {
+      "name": "Состав",
+      "filterValue": null,
+      "value": "Aqua, Sodium Laureth Sulfate, Cocamide Methyl Mea, Cocamidopropyl Betaine, Dimethicone, Glycerin, Glycol Distearate, Par",
+      "url": null
+     },
+     "instruction": {
+      "name": "Способ применения",
+      "filterValue": null,
+      "value": "Обильно намочить волосы, нанести шампунь массажными движениями на кожу головы и локоны от корней к кончикам. Тщательно с",
+      "url": null
+     },
+     "tone": null,
+     "marking": null,
+     "tag": null,
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_kensuko",
+      "value": "KENSUKO",
+      "url": "/catalog/brand_kensuko/"
+     }
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": true,
+     "quantityOnline": 23,
+     "availableOffline": true,
+     "quantityOffline": 65,
+     "remains": 88,
+     "shopsNumber": 12
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-gift/",
+      "description": "",
+      "name": "Подарок",
+      "title": null,
+      "type": "gift",
+      "img": "/upload/medialibrary/shildy/gift.svg",
+      "mobileCode": "msk-gift",
+      "hex": "#74C3F7"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": {
+     "sum": 292.25,
+     "monthQuantity": 4
+    },
+    "offers": null
+   },
+   {
+    "article": "84361",
+    "name": "Шампунь для волос `KENSUKO` восстанавливающий для поврежденных волос 760 мл",
+    "description": "Восстанавливающий шампунь для поврежденных волос KENSUKO глубоко очищает и питае",
+    "url": "/catalog/volosy/shampuni/84361-shampun-dlya-volos-kensuko-vosstanavlivayushchiy-dlya-povrezhdennykh-volos-760-ml/",
+    "sort": 301,
+    "favorite": false,
+    "bitrixProductId": 53581,
+    "bitrixSection": {
+     "id": 968,
+     "url": "/catalog/category_volosy-shampuni/",
+     "name": "Шампуни ",
+     "code": "shampuni",
+     "namePath": "Волосы/Шампуни "
+    },
+    "frisbuyId": 20870,
+    "pricing": {
+     "basePrice": 1389,
+     "totalPrice": 1389,
+     "priceText": ""
+    },
+    "reviews": {
+     "rating": 4.8,
+     "amount": 104
+    },
+    "attributes": {
+     "part": {
+      "name": "Область использования",
+      "filterValue": "area_of_use_volosy",
+      "value": "Волосы",
+      "url": "/catalog/area_of_use_volosy/"
+     },
+     "section": [
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy",
+       "value": "Волосы",
+       "img": "/upload/iblock/7eb/7eb6726a0bb2e776fc2cd5ac24dd0ba6.png",
+       "url": "/catalog/category_volosy/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy-shampuni",
+       "value": "Шампуни ",
+       "img": "/upload/iblock/e1b/e1bb48fe44cba72bfedb26945480c531.png",
+       "url": "/catalog/category_volosy-shampuni/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_korea",
+       "value": "Корея",
+       "img": "/upload/iblock/cd7/cd7c00932d93223e79740f38a1621bfa.png",
+       "url": "/catalog/category_korea/"
+      }
+     ],
+     "skin": null,
+     "weight": {
+      "name": "Вес в упаковке, г.",
+      "filterValue": null,
+      "value": "870",
+      "url": null
+     },
+     "height": {
+      "name": "Высота упаковки, мм",
+      "filterValue": null,
+      "value": "283",
+      "url": null
+     },
+     "width": {
+      "name": "Ширина упаковки, мм",
+      "filterValue": null,
+      "value": "85",
+      "url": null
+     },
+     "length": {
+      "name": "Длина упаковки, мм",
+      "filterValue": null,
+      "value": "53",
+      "url": null
+     },
+     "country": {
+      "name": "Страна",
+      "filterValue": "country_china",
+      "value": "Китай",
+      "url": "/catalog/country_china/"
+     },
+     "texture": {
+      "name": "Текстура",
+      "filterValue": "texture_zhidkaya",
+      "value": "Жидкая",
+      "url": "/catalog/texture_zhidkaya/"
+     },
+     "composition": {
+      "name": "Состав",
+      "filterValue": null,
+      "value": "AQUA, SODIUM LAURETH SULFATE, COCAMIDE DEA, GLYCERIN, SODIUM LAURYL SULFATE, DIMETHICONE, COCAMIDOPROPYL BETAINE, DIMETH",
+      "url": null
+     },
+     "instruction": {
+      "name": "Способ применения",
+      "filterValue": null,
+      "value": "Нанесите на влажные волосы, вспеньте  руками, хорошо промойте водой, повторите при необходимости. Для лучшего результата",
+      "url": null
+     },
+     "tone": null,
+     "marking": null,
+     "tag": null,
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_kensuko",
+      "value": "KENSUKO",
+      "url": "/catalog/brand_kensuko/"
+     }
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": true,
+     "quantityOnline": 165,
+     "availableOffline": true,
+     "quantityOffline": 49,
+     "remains": 214,
+     "shopsNumber": 12
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-hit/",
+      "description": "",
+      "name": "Хит продаж",
+      "title": "хит",
+      "type": "hit",
+      "img": null,
+      "mobileCode": "msk-hit",
+      "hex": "#9CD05A"
+     },
+     {
+      "url": "/catalog/mark_msk-gift/",
+      "description": "",
+      "name": "Подарок",
+      "title": null,
+      "type": "gift",
+      "img": "/upload/medialibrary/shildy/gift.svg",
+      "mobileCode": "msk-gift",
+      "hex": "#74C3F7"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": {
+     "sum": 347.25,
+     "monthQuantity": 4
+    },
+    "offers": null
+   },
+   {
+    "article": "196077",
+    "name": "Шампунь для волос `KENSUKO` очищающий 760 мл",
+    "description": "Очищающий шампунь для волос KENSUKO восстанавливает, укрепляет и бережно удаляет",
+    "url": "/catalog/volosy/shampuni/196077-shampun-dlya-volos-kensuko-ochishchayushchiy-760-ml/",
+    "sort": 73,
+    "favorite": false,
+    "bitrixProductId": 1077038,
+    "bitrixSection": {
+     "id": 968,
+     "url": "/catalog/category_volosy-shampuni/",
+     "name": "Шампуни ",
+     "code": "shampuni",
+     "namePath": "Волосы/Шампуни "
+    },
+    "frisbuyId": 1077034,
+    "pricing": {
+     "basePrice": 1389,
+     "totalPrice": 1389,
+     "priceText": ""
+    },
+    "reviews": {
+     "rating": 4.6,
+     "amount": 13
+    },
+    "attributes": {
+     "part": {
+      "name": "Область использования",
+      "filterValue": "area_of_use_volosy",
+      "value": "Волосы",
+      "url": "/catalog/area_of_use_volosy/"
+     },
+     "section": [
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy",
+       "value": "Волосы",
+       "img": "/upload/iblock/7eb/7eb6726a0bb2e776fc2cd5ac24dd0ba6.png",
+       "url": "/catalog/category_volosy/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy-shampuni",
+       "value": "Шампуни ",
+       "img": "/upload/iblock/e1b/e1bb48fe44cba72bfedb26945480c531.png",
+       "url": "/catalog/category_volosy-shampuni/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_korea",
+       "value": "Корея",
+       "img": "/upload/iblock/cd7/cd7c00932d93223e79740f38a1621bfa.png",
+       "url": "/catalog/category_korea/"
+      }
+     ],
+     "skin": {
+      "name": "Тип кожи",
+      "filterValue": "skin_type_vse-tipy-kozhi",
+      "value": "Все типы кожи",
+      "url": "/catalog/skin_type_vse-tipy-kozhi/"
+     },
+     "weight": {
+      "name": "Вес в упаковке, г.",
+      "filterValue": null,
+      "value": "870",
+      "url": null
+     },
+     "height": {
+      "name": "Высота упаковки, мм",
+      "filterValue": null,
+      "value": "283",
+      "url": null
+     },
+     "width": {
+      "name": "Ширина упаковки, мм",
+      "filterValue": null,
+      "value": "85",
+      "url": null
+     },
+     "length": {
+      "name": "Длина упаковки, мм",
+      "filterValue": null,
+      "value": "53",
+      "url": null
+     },
+     "country": {
+      "name": "Страна",
+      "filterValue": "country_china",
+      "value": "Китай",
+      "url": "/catalog/country_china/"
+     },
+     "texture": {
+      "name": "Текстура",
+      "filterValue": "texture_kremoobraznaya",
+      "value": "Кремообразная",
+      "url": "/catalog/texture_kremoobraznaya/"
+     },
+     "composition": {
+      "name": "Состав",
+      "filterValue": null,
+      "value": "AQUA, SODIUM LAURETH SULFATE, COCAMIDOPROPYL BETAINE, COCAMIDE METHYL MEA, GLYCERIN, SODIUM CHLORIDE, PEG-12 DIMETHICONE",
+      "url": null
+     },
+     "instruction": {
+      "name": "Способ применения",
+      "filterValue": null,
+      "value": "Нанести на влажные волосы, вспенить руками, хорошо промыть водой. Повторить при необходимости.\nДля лучшего результата по",
+      "url": null
+     },
+     "tone": null,
+     "marking": null,
+     "tag": null,
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_kensuko",
+      "value": "KENSUKO",
+      "url": "/catalog/brand_kensuko/"
+     }
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": true,
+     "quantityOnline": 32,
+     "availableOffline": true,
+     "quantityOffline": 57,
+     "remains": 89,
+     "shopsNumber": 12
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-gift/",
+      "description": "",
+      "name": "Подарок",
+      "title": null,
+      "type": "gift",
+      "img": "/upload/medialibrary/shildy/gift.svg",
+      "mobileCode": "msk-gift",
+      "hex": "#74C3F7"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": {
+     "sum": 347.25,
+     "monthQuantity": 4
+    },
+    "offers": null
+   },
+   {
+    "article": "260338",
+    "name": "Шампунь для волос `KENSUKO` Pro-Xylane с аминокислотами 400 мл",
+    "description": "Шампунь для волос KENSUKO Pro-Xylane с аминокислотами — это многоступенчатый ухо",
+    "url": "/catalog/volosy/shampuni/260338-shampun-dlya-volos-kensuko-pro-xylane-s-aminokislotami-400-ml/",
+    "sort": 24,
+    "favorite": false,
+    "bitrixProductId": 1506512,
+    "bitrixSection": {
+     "id": 968,
+     "url": "/catalog/category_volosy-shampuni/",
+     "name": "Шампуни ",
+     "code": "shampuni",
+     "namePath": "Волосы/Шампуни "
+    },
+    "frisbuyId": 1506511,
+    "pricing": {
+     "basePrice": 1439,
+     "totalPrice": 1439,
+     "priceText": ""
+    },
+    "reviews": {
+     "rating": 5,
+     "amount": 1
+    },
+    "attributes": {
+     "part": {
+      "name": "Область использования",
+      "filterValue": "area_of_use_volosy",
+      "value": "Волосы",
+      "url": "/catalog/area_of_use_volosy/"
+     },
+     "section": [
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy",
+       "value": "Волосы",
+       "img": "/upload/iblock/7eb/7eb6726a0bb2e776fc2cd5ac24dd0ba6.png",
+       "url": "/catalog/category_volosy/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy-shampuni",
+       "value": "Шампуни ",
+       "img": "/upload/iblock/e1b/e1bb48fe44cba72bfedb26945480c531.png",
+       "url": "/catalog/category_volosy-shampuni/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_aptechnaya_kosmetica",
+       "value": "Аптечная косметика",
+       "img": "/upload/iblock/c56/vgbchqlibmqnkef0dgq7kaysx4u4dbuf.png",
+       "url": "/catalog/category_aptechnaya_kosmetica/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_aptechnaya_kosmetica-dlya_volos",
+       "value": "Для волос",
+       "img": "/upload/iblock/996/3ziwzvgrdthtawdat8kklfhiabndycwn.png",
+       "url": "/catalog/category_aptechnaya_kosmetica-dlya_volos/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_korea",
+       "value": "Корея",
+       "img": "/upload/iblock/cd7/cd7c00932d93223e79740f38a1621bfa.png",
+       "url": "/catalog/category_korea/"
+      }
+     ],
+     "skin": {
+      "name": "Тип кожи",
+      "filterValue": "skin_type_vse-tipy-kozhi",
+      "value": "Все типы кожи",
+      "url": "/catalog/skin_type_vse-tipy-kozhi/"
+     },
+     "weight": {
+      "name": "Вес в упаковке, г.",
+      "filterValue": null,
+      "value": "300",
+      "url": null
+     },
+     "height": {
+      "name": "Высота упаковки, мм",
+      "filterValue": null,
+      "value": "190",
+      "url": null
+     },
+     "width": {
+      "name": "Ширина упаковки, мм",
+      "filterValue": null,
+      "value": "85",
+      "url": null
+     },
+     "length": {
+      "name": "Длина упаковки, мм",
+      "filterValue": null,
+      "value": "37",
+      "url": null
+     },
+     "country": {
+      "name": "Страна",
+      "filterValue": "country_china",
+      "value": "Китай",
+      "url": "/catalog/country_china/"
+     },
+     "texture": {
+      "name": "Текстура",
+      "filterValue": "texture_kremoobraznaya",
+      "value": "Кремообразная",
+      "url": "/catalog/texture_kremoobraznaya/"
+     },
+     "composition": {
+      "name": "Состав",
+      "filterValue": null,
+      "value": "Aqua, Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Sodium C14-16 Olefin Sulfonate, Decyl Glucoside, Sodium Methyl",
+      "url": null
+     },
+     "instruction": {
+      "name": "Способ применения",
+      "filterValue": null,
+      "value": "Нанесите небольшое количество шампуня на влажные волосы, помассируйте кожу головы до образования пены. Тщательно смойте ",
+      "url": null
+     },
+     "tone": null,
+     "marking": null,
+     "tag": null,
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_kensuko",
+      "value": "KENSUKO",
+      "url": "/catalog/brand_kensuko/"
+     }
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": true,
+     "quantityOnline": 29,
+     "availableOffline": true,
+     "quantityOffline": 114,
+     "remains": 143,
+     "shopsNumber": 12
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-gift/",
+      "description": "",
+      "name": "Подарок",
+      "title": null,
+      "type": "gift",
+      "img": "/upload/medialibrary/shildy/gift.svg",
+      "mobileCode": "msk-gift",
+      "hex": "#74C3F7"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": {
+     "sum": 359.75,
+     "monthQuantity": 4
+    },
+    "offers": null
+   },
+   {
+    "article": "260339",
+    "name": "Шампунь для волос `KENSUKO` Pro-Xylane нормализующий баланс 400 мл",
+    "description": "Шампунь для волос KENSUKO Pro-Xylane нормализующий баланс бережно очищает и мягк",
+    "url": "/catalog/volosy/shampuni/260339-shampun-dlya-volos-kensuko-pro-xylane-normalizuyushchiy-balans-400-ml/",
+    "sort": 22,
+    "favorite": false,
+    "bitrixProductId": 1506514,
+    "bitrixSection": {
+     "id": 968,
+     "url": "/catalog/category_volosy-shampuni/",
+     "name": "Шампуни ",
+     "code": "shampuni",
+     "namePath": "Волосы/Шампуни "
+    },
+    "frisbuyId": 1506513,
+    "pricing": {
+     "basePrice": 1439,
+     "totalPrice": 1439,
+     "priceText": ""
+    },
+    "reviews": {
+     "rating": 4.5,
+     "amount": 2
+    },
+    "attributes": {
+     "part": {
+      "name": "Область использования",
+      "filterValue": "area_of_use_volosy",
+      "value": "Волосы",
+      "url": "/catalog/area_of_use_volosy/"
+     },
+     "section": [
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy",
+       "value": "Волосы",
+       "img": "/upload/iblock/7eb/7eb6726a0bb2e776fc2cd5ac24dd0ba6.png",
+       "url": "/catalog/category_volosy/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy-shampuni",
+       "value": "Шампуни ",
+       "img": "/upload/iblock/e1b/e1bb48fe44cba72bfedb26945480c531.png",
+       "url": "/catalog/category_volosy-shampuni/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_aptechnaya_kosmetica",
+       "value": "Аптечная косметика",
+       "img": "/upload/iblock/c56/vgbchqlibmqnkef0dgq7kaysx4u4dbuf.png",
+       "url": "/catalog/category_aptechnaya_kosmetica/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_aptechnaya_kosmetica-dlya_volos",
+       "value": "Для волос",
+       "img": "/upload/iblock/996/3ziwzvgrdthtawdat8kklfhiabndycwn.png",
+       "url": "/catalog/category_aptechnaya_kosmetica-dlya_volos/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_korea",
+       "value": "Корея",
+       "img": "/upload/iblock/cd7/cd7c00932d93223e79740f38a1621bfa.png",
+       "url": "/catalog/category_korea/"
+      }
+     ],
+     "skin": {
+      "name": "Тип кожи",
+      "filterValue": "skin_type_vse-tipy-kozhi",
+      "value": "Все типы кожи",
+      "url": "/catalog/skin_type_vse-tipy-kozhi/"
+     },
+     "weight": {
+      "name": "Вес в упаковке, г.",
+      "filterValue": null,
+      "value": "300",
+      "url": null
+     },
+     "height": {
+      "name": "Высота упаковки, мм",
+      "filterValue": null,
+      "value": "190",
+      "url": null
+     },
+     "width": {
+      "name": "Ширина упаковки, мм",
+      "filterValue": null,
+      "value": "85",
+      "url": null
+     },
+     "length": {
+      "name": "Длина упаковки, мм",
+      "filterValue": null,
+      "value": "37",
+      "url": null
+     },
+     "country": {
+      "name": "Страна",
+      "filterValue": "country_china",
+      "value": "Китай",
+      "url": "/catalog/country_china/"
+     },
+     "texture": {
+      "name": "Текстура",
+      "filterValue": "texture_kremoobraznaya",
+      "value": "Кремообразная",
+      "url": "/catalog/texture_kremoobraznaya/"
+     },
+     "composition": {
+      "name": "Состав",
+      "filterValue": null,
+      "value": "Aqua, Cocamidopropyl Betaine, Sodium Lauroyl Sarcosinate, Sodium C14-16 Olefin Sulfonate, Decyl Glucoside, Sodium Methyl",
+      "url": null
+     },
+     "instruction": {
+      "name": "Способ применения",
+      "filterValue": null,
+      "value": "Нанесите небольшое количество шампуня на влажные волосы, помассируйте кожу головы до образования пены. Тщательно смойте ",
+      "url": null
+     },
+     "tone": null,
+     "marking": null,
+     "tag": null,
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_kensuko",
+      "value": "KENSUKO",
+      "url": "/catalog/brand_kensuko/"
+     }
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": true,
+     "quantityOnline": 20,
+     "availableOffline": true,
+     "quantityOffline": 113,
+     "remains": 133,
+     "shopsNumber": 12
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-gift/",
+      "description": "",
+      "name": "Подарок",
+      "title": null,
+      "type": "gift",
+      "img": "/upload/medialibrary/shildy/gift.svg",
+      "mobileCode": "msk-gift",
+      "hex": "#74C3F7"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": {
+     "sum": 359.75,
+     "monthQuantity": 4
+    },
+    "offers": null
+   }
+  ],
+  "navigation": {
+   "totalOffersCount": 8,
+   "totalPagesCount": 1,
+   "pageSize": 20,
+   "currentPage": 1
+  }
+ },
+ "urls": {
+  "site": "/catalog/price_to-2000/store_28158/brand_kensuko/category_volosy-shampuni/?search=шампунь",
+  "api": {
+   "filter": "/api/v3/catalog/price_to-2000/store_28158/brand_kensuko/category_volosy-shampuni/filter?search=шампунь",
+   "listing": "/api/v3/catalog/price_to-2000/store_28158/brand_kensuko/category_volosy-shampuni/listing?search=шампунь",
+   "seo": "/api/v3/catalog/price_to-2000/store_28158/brand_kensuko/category_volosy-shampuni/seo?search=шампунь"
+  },
+  "redirect": null
+ },
+ "redirectUrl": null,
+ "timings": {
+  "summary": 0.84747314453125
+ }
+}

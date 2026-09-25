@@ -1,0 +1,448 @@
+{
+ "_note": "GET /api/v3/catalog/listing?search=шампунь&sorting=price_asc, x-region-fias=Свердловская обл., Authorization: Bearer <guest token>. 2026-09-25 ~11:25 МСК. Урезано.",
+ "listing": {
+  "offers": [
+   {
+    "article": "260327",
+    "name": "SOS-шампунь для волос `ORGANIC OIL` `PROFESSIONAL` Восстановление и блеск на аргановом масле 30 мл",
+    "description": "SOS-маска для волос ORGANIC OIL PROFESSIONAL Восстановление и блеск на аргановом масле 30 мл — экспресс-средство салонно…",
+    "url": "/catalog/volosy/shampuni/260327-sos-shampun-dlya-volos-organic-oil-professional-vosstanovlenie-i-blesk-na-arganovom-masle-30-ml/",
+    "sort": 3,
+    "favorite": false,
+    "bitrixProductId": 1474246,
+    "bitrixSection": {
+     "id": 968,
+     "url": "/catalog/category_volosy-shampuni/",
+     "name": "Шампуни ",
+     "code": "shampuni",
+     "namePath": "Волосы/Шампуни "
+    },
+    "frisbuyId": 1474245,
+    "media": [
+     {
+      "small": "/upload/resized/iblock/bbf/bbf843af247d5518958afff0102b3669.jpg/110x110.webp",
+      "medium": "/upload/resized/iblock/bbf/bbf843af247d5518958afff0102b3669.jpg/480x480.webp",
+      "large": "/upload/resized/iblock/bbf/bbf843af247d5518958afff0102b3669.jpg/1200x1200.webp"
+     }
+    ],
+    "pricing": {
+     "basePrice": 58,
+     "totalPrice": 41,
+     "discountTotal": 17,
+     "discountPercent": 29,
+     "priceText": ""
+    },
+    "reviews": {
+     "rating": 0,
+     "amount": 0
+    },
+    "attributes": {
+     "part": {
+      "name": "Область использования",
+      "description": null,
+      "filterValue": "area_of_use_volosy",
+      "value": "Волосы",
+      "img": null,
+      "url": "/catalog/area_of_use_volosy/"
+     },
+     "section": [
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy",
+       "value": "Волосы",
+       "img": "/upload/iblock/7eb/7eb6726a0bb2e776fc2cd5ac24dd0ba6.png",
+       "url": "/catalog/category_volosy/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy-shampuni",
+       "value": "Шампуни ",
+       "img": "/upload/iblock/e1b/e1bb48fe44cba72bfedb26945480c531.png",
+       "url": "/catalog/category_volosy-shampuni/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_korea",
+       "value": "Корея",
+       "img": "/upload/iblock/cd7/cd7c00932d93223e79740f38a1621bfa.png",
+       "url": "/catalog/category_korea/"
+      }
+     ],
+     "skin": null,
+     "weight": {
+      "name": "Вес в упаковке, г.",
+      "description": null,
+      "filterValue": null,
+      "value": "32",
+      "img": null,
+      "url": null
+     },
+     "height": {
+      "name": "Высота упаковки, мм",
+      "description": null,
+      "filterValue": null,
+      "value": "135",
+      "img": null,
+      "url": null
+     },
+     "width": {
+      "name": "Ширина упаковки, мм",
+      "description": null,
+      "filterValue": null,
+      "value": "84",
+      "img": null,
+      "url": null
+     },
+     "length": {
+      "name": "Длина упаковки, мм",
+      "description": null,
+      "filterValue": null,
+      "value": "3",
+      "img": null,
+      "url": null
+     },
+     "country": {
+      "name": "Страна",
+      "description": null,
+      "filterValue": "country_russia",
+      "value": "Россия",
+      "img": null,
+      "url": "/catalog/country_russia/"
+     },
+     "texture": {
+      "name": "Текстура",
+      "description": null,
+      "filterValue": "texture_kremoobraznaya",
+      "value": "Кремообразная",
+      "img": null,
+      "url": "/catalog/texture_kremoobraznaya/"
+     },
+     "composition": {
+      "name": "Состав",
+      "description": null,
+      "filterValue": null,
+      "value": "Aqua, Cocos Nucifera Oil, Argania Spinosa Kernel Oil, Cetearyl Alcohol, Glycerin…",
+      "img": null,
+      "url": null
+     },
+     "instruction": {
+      "name": "Способ применения",
+      "description": null,
+      "filterValue": null,
+      "value": "По назначению.…",
+      "img": null,
+      "url": null
+     },
+     "tone": null,
+     "marking": null,
+     "tag": null,
+     "brand": {
+      "name": "Бренд",
+      "description": null,
+      "filterValue": "brand_organic_oil",
+      "value": "ORGANIC OIL",
+      "img": null,
+      "url": "/catalog/brand_organic_oil/"
+     }
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": false,
+     "quantityOnline": 0,
+     "availableOffline": true,
+     "quantityOffline": 3,
+     "remains": 3,
+     "shopsNumber": 2
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-discount/",
+      "description": "",
+      "name": "Персональная скидка",
+      "title": "-29%",
+      "type": "discount",
+      "img": "",
+      "mobileCode": "msk-personal_discount",
+      "hex": "#FF78B2"
+     },
+     {
+      "url": "/catalog/mark_msk-benefit/",
+      "description": "",
+      "name": "Выгодная цена",
+      "title": null,
+      "type": "benefit",
+      "img": "/upload/medialibrary/shildy/wallet.svg",
+      "mobileCode": "msk-benefit",
+      "hex": "#74C3F7"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": null,
+    "offers": null
+   },
+   {
+    "article": "213515",
+    "name": "Шампунь для волос `CAFE MIMI` SUPER FOOD Кокос и лотос (питание и восстановление) 100 мл",
+    "description": "1. Деликатное очищение \n2. Питание и укрепление\n3. Восстановление баланса кожи головы…",
+    "url": "/catalog/volosy/shampuni/213515-shampun-dlya-volos-cafe-mimi-super-food-kokos-i-lotos-pitanie-i-vosstanovlenie-100-ml/",
+    "sort": 1,
+    "favorite": false,
+    "bitrixProductId": 1032902,
+    "bitrixSection": {
+     "id": 968,
+     "url": "/catalog/category_volosy-shampuni/",
+     "name": "Шампуни ",
+     "code": "shampuni",
+     "namePath": "Волосы/Шампуни "
+    },
+    "frisbuyId": 1032898,
+    "media": [
+     {
+      "small": "/upload/resized/iblock/e51/e514e1495b418ac5424ce55d9421f57f.jpg/110x110.webp",
+      "medium": "/upload/resized/iblock/e51/e514e1495b418ac5424ce55d9421f57f.jpg/480x480.webp",
+      "large": "/upload/resized/iblock/e51/e514e1495b418ac5424ce55d9421f57f.jpg/1200x1200.webp"
+     }
+    ],
+    "pricing": {
+     "basePrice": 133,
+     "totalPrice": 126,
+     "discountTotal": 7,
+     "discountPercent": 5,
+     "priceText": ""
+    },
+    "reviews": {
+     "rating": 5,
+     "amount": 2
+    },
+    "attributes": {
+     "part": {
+      "name": "Область использования",
+      "description": null,
+      "filterValue": "area_of_use_volosy",
+      "value": "Волосы",
+      "img": null,
+      "url": "/catalog/area_of_use_volosy/"
+     },
+     "section": [
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy",
+       "value": "Волосы",
+       "img": "/upload/iblock/7eb/7eb6726a0bb2e776fc2cd5ac24dd0ba6.png",
+       "url": "/catalog/category_volosy/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_volosy-shampuni",
+       "value": "Шампуни ",
+       "img": "/upload/iblock/e1b/e1bb48fe44cba72bfedb26945480c531.png",
+       "url": "/catalog/category_volosy-shampuni/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_korea",
+       "value": "Корея",
+       "img": "/upload/iblock/cd7/cd7c00932d93223e79740f38a1621bfa.png",
+       "url": "/catalog/category_korea/"
+      }
+     ],
+     "skin": {
+      "name": "Тип кожи",
+      "description": null,
+      "filterValue": "skin_type_vse-tipy-kozhi",
+      "value": "Все типы кожи",
+      "img": null,
+      "url": "/catalog/skin_type_vse-tipy-kozhi/"
+     },
+     "weight": {
+      "name": "Вес в упаковке, г.",
+      "description": null,
+      "filterValue": null,
+      "value": "102",
+      "img": null,
+      "url": null
+     },
+     "height": {
+      "name": "Высота упаковки, мм",
+      "description": null,
+      "filterValue": null,
+      "value": "150",
+      "img": null,
+      "url": null
+     },
+     "width": {
+      "name": "Ширина упаковки, мм",
+      "description": null,
+      "filterValue": null,
+      "value": "80",
+      "img": null,
+      "url": null
+     },
+     "length": {
+      "name": "Длина упаковки, мм",
+      "description": null,
+      "filterValue": null,
+      "value": "33",
+      "img": null,
+      "url": null
+     },
+     "country": {
+      "name": "Страна",
+      "description": null,
+      "filterValue": "country_russia",
+      "value": "Россия",
+      "img": null,
+      "url": "/catalog/country_russia/"
+     },
+     "texture": {
+      "name": "Текстура",
+      "description": null,
+      "filterValue": "texture_gelevaya",
+      "value": "Гелевая",
+      "img": null,
+      "url": "/catalog/texture_gelevaya/"
+     },
+     "composition": {
+      "name": "Состав",
+      "description": null,
+      "filterValue": null,
+      "value": "Aqua with infusion of: Organic Cocos Nucifera (Coconut) Liquid Endosperm (органи…",
+      "img": null,
+      "url": null
+     },
+     "instruction": {
+      "name": "Способ применения",
+      "description": null,
+      "filterValue": null,
+      "value": "Нанесите шампунь на влажные волосы, вспеньте и смойте водой. При необходимости п…",
+      "img": null,
+      "url": null
+     },
+     "tone": null,
+     "marking": null,
+     "tag": null,
+     "brand": {
+      "name": "Бренд",
+      "description": null,
+      "filterValue": "brand_cafe_mimi",
+      "value": "CAFE MIMI",
+      "img": null,
+      "url": "/catalog/brand_cafe_mimi/"
+     }
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": false,
+     "quantityOnline": 0,
+     "availableOffline": true,
+     "quantityOffline": 1,
+     "remains": 1,
+     "shopsNumber": 1
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-discount/",
+      "description": "",
+      "name": "Персональная скидка",
+      "title": "-5%",
+      "type": "discount",
+      "img": "",
+      "mobileCode": "msk-personal_discount",
+      "hex": "#FF78B2"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": null,
+    "offers": null
+   },
+   "… ещё 18 товаров"
+  ],
+  "navigation": {
+   "totalOffersCount": 291,
+   "totalPagesCount": 15,
+   "pageSize": 20,
+   "currentPage": 1
+  },
+  "sorting": [
+   {
+    "name": "По популярности",
+    "code": "popularity",
+    "default": true,
+    "selected": false,
+    "urls": {
+     "site": "/catalog/?search=шампунь",
+     "api": {
+      "filter": "/api/v3/catalog/filter?search=шампунь",
+      "listing": "/api/v3/catalog/listing?search=шампунь",
+      "seo": "/api/v3/catalog/seo?search=шампунь"
+     },
+     "redirect": null
+    }
+   },
+   {
+    "name": "По рейтингу",
+    "code": "rating",
+    "default": false,
+    "selected": false,
+    "urls": {
+     "site": "/catalog/?search=шампунь&sorting=rating",
+     "api": {
+      "filter": "/api/v3/catalog/filter?search=шампунь&sorting=rating",
+      "listing": "/api/v3/catalog/listing?search=шампунь&sorting=rating",
+      "seo": "/api/v3/catalog/seo?search=шампунь&sorting=rating"
+     },
+     "redirect": null
+    }
+   },
+   {
+    "name": "По убыванию цены",
+    "code": "price_desc",
+    "default": false,
+    "selected": false,
+    "urls": {
+     "site": "/catalog/?search=шампунь&sorting=price_desc",
+     "api": {
+      "filter": "/api/v3/catalog/filter?search=шампунь&sorting=price_desc",
+      "listing": "/api/v3/catalog/listing?search=шампунь&sorting=price_desc",
+      "seo": "/api/v3/catalog/seo?search=шампунь&sorting=price_desc"
+     },
+     "redirect": null
+    }
+   },
+   {
+    "name": "По возрастанию цены",
+    "code": "price_asc",
+    "default": false,
+    "selected": true,
+    "urls": {
+     "site": "/catalog/?search=шампунь&sorting=price_asc",
+     "api": {
+      "filter": "/api/v3/catalog/filter?search=шампунь&sorting=price_asc",
+      "listing": "/api/v3/catalog/listing?search=шампунь&sorting=price_asc",
+      "seo": "/api/v3/catalog/seo?search=шампунь&sorting=price_asc"
+     },
+     "redirect": null
+    }
+   }
+  ]
+ },
+ "urls": {
+  "site": "/catalog/?search=шампунь",
+  "api": {
+   "filter": "/api/v3/catalog/filter?search=шампунь",
+   "listing": "/api/v3/catalog/listing?search=шампунь",
+   "seo": "/api/v3/catalog/seo?search=шампунь"
+  },
+  "redirect": null
+ },
+ "redirectUrl": null,
+ "timings": {
+  "summary": 0.62010622024536
+ }
+}

@@ -1,0 +1,1255 @@
+{
+ "_note": "листинг акции (pair), первые 4 плитки, 2026-09-25 12:30–13:40 МСК (после утреннего окна), регион Свердловская обл.",
+ "listing": {
+  "offers": [
+   {
+    "article": "202696",
+    "name": "Карандаш для губ `VIVIENNE SABO` LE GRAND VOLUME устойчивый гелевый тон 03",
+    "description": "Суперстойкие карандаши для губ!\nLe Grand Volume сделают ваши губы объемными и со",
+    "url": "/catalog/makiyazh/guby/karandashi/202696-karandash-dlya-gub-vivienne-sabo-le-grand-volume-ustoychivyy-gelevyy-ton-03/",
+    "sort": 1106,
+    "favorite": false,
+    "bitrixProductId": 647070,
+    "bitrixSection": {
+     "id": 952,
+     "url": "/catalog/category_makiyazh-guby-karandashi/",
+     "name": "Карандаши",
+     "code": "karandashi",
+     "namePath": "Макияж/Губы/Карандаши"
+    },
+    "frisbuyId": 742814,
+    "pricing": {
+     "basePrice": 300,
+     "totalPrice": 300,
+     "priceText": ""
+    },
+    "reviews": {
+     "rating": 4.5,
+     "amount": 33
+    },
+    "attributes": {
+     "part": {
+      "name": "Область использования",
+      "filterValue": "area_of_use_guby",
+      "value": "Губы",
+      "url": "/catalog/area_of_use_guby/"
+     },
+     "section": [
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_makiyazh",
+       "value": "Макияж",
+       "img": "/upload/iblock/791/79184c9df7870950e39b11a7548e652f.png",
+       "url": "/catalog/category_makiyazh/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_makiyazh-guby",
+       "value": "Губы",
+       "img": "/upload/iblock/6ba/6ba5cb3ccb93017e99c764cadc790d05.png",
+       "url": "/catalog/category_makiyazh-guby/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_makiyazh-guby-karandashi",
+       "value": "Карандаши",
+       "img": "/upload/iblock/308/308b0e07431d49ba680e686dbcb9a10f.png",
+       "url": "/catalog/category_makiyazh-guby-karandashi/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_korea",
+       "value": "Корея",
+       "img": "/upload/iblock/cd7/cd7c00932d93223e79740f38a1621bfa.png",
+       "url": "/catalog/category_korea/"
+      }
+     ],
+     "skin": null,
+     "weight": {
+      "name": "Вес в упаковке, г.",
+      "filterValue": null,
+      "value": "5",
+      "url": null
+     },
+     "height": {
+      "name": "Высота упаковки, мм",
+      "filterValue": null,
+      "value": "140",
+      "url": null
+     },
+     "width": {
+      "name": "Ширина упаковки, мм",
+      "filterValue": null,
+      "value": "6",
+      "url": null
+     },
+     "length": {
+      "name": "Длина упаковки, мм",
+      "filterValue": null,
+      "value": "6",
+      "url": null
+     },
+     "country": {
+      "name": "Страна",
+      "filterValue": "country_china",
+      "value": "Китай",
+      "url": "/catalog/country_china/"
+     },
+     "texture": {
+      "name": "Текстура",
+      "filterValue": "texture_kremoobraznaya",
+      "value": "Кремообразная",
+      "url": "/catalog/texture_kremoobraznaya/"
+     },
+     "composition": {
+      "name": "Состав",
+      "filterValue": null,
+      "value": "cyclopentasiloxane, trimethylsiloxysilicate, polyethylene, isododecane, ceresin, cetyl ethylhexanoate, synthetic wax,cer",
+      "url": null
+     },
+     "instruction": {
+      "name": "Способ применения",
+      "filterValue": null,
+      "value": "Подчеркните контур губ с помощью карандаша, либо нанесите его на всю поверхность в качестве базы, чтобы продлить стойкос",
+      "url": null
+     },
+     "tone": {
+      "name": "Тон",
+      "filterValue": "tone_202696",
+      "value": "Тон 03/Холодный нюд",
+      "url": "/catalog/tone_202696/"
+     },
+     "marking": null,
+     "tag": null,
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_vivienne_sabo",
+      "value": "VIVIENNE SABO",
+      "url": "/catalog/brand_vivienne_sabo/"
+     }
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": true,
+     "quantityOnline": 146,
+     "availableOffline": true,
+     "quantityOffline": 36,
+     "remains": 182,
+     "shopsNumber": 10
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-pair/",
+      "description": "",
+      "name": "Добавь товары брендов из акции",
+      "title": "%*",
+      "type": "pair",
+      "img": "",
+      "mobileCode": "msk-pair",
+      "hex": "#FF78B2"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": {
+     "sum": 75,
+     "monthQuantity": 4
+    },
+    "offers": [
+     {
+      "article": "226494",
+      "name": "Карандаш для губ `VIVIENNE SABO` LE GRAND VOLUME устойчивый гелевый тон 06",
+      "url": "/catalog/makiyazh/guby/karandashi/226494-karandash-dlya-gub-vivienne-sabo-le-grand-volume-ustoychivyy-gelevyy-ton-06/",
+      "bitrixProductId": 1183942,
+      "frisbuyId": 742814,
+      "pricing": {
+       "basePrice": 300,
+       "totalPrice": 300,
+       "priceText": null
+      },
+      "reviews": {
+       "rating": 4.5,
+       "amount": 33
+      },
+      "availability": {
+       "available": true,
+       "availableOnline": true,
+       "quantityOnline": 16,
+       "availableOffline": true,
+       "quantityOffline": 37,
+       "remains": 53,
+       "shopsNumber": 10
+      },
+      "marks": [
+       {
+        "url": "/catalog/mark_msk-pair/",
+        "description": "",
+        "name": "Добавь товары брендов из акции",
+        "title": "%*",
+        "type": "pair",
+        "img": "",
+        "mobileCode": "msk-pair",
+        "hex": "#FF78B2"
+       }
+      ],
+      "promotions": [],
+      "partPaymentPrice": {
+       "sum": 75,
+       "monthQuantity": 4
+      },
+      "attributes": {
+       "tone": {
+        "name": "Тон",
+        "filterValue": "tone_226494",
+        "value": "Тон 06/ натуральный розовый"
+       },
+       "brand": {
+        "name": "Бренд",
+        "filterValue": "brand_vivienne_sabo",
+        "value": "VIVIENNE SABO"
+       }
+      }
+     },
+     {
+      "article": "226495",
+      "name": "Карандаш для губ `VIVIENNE SABO` LE GRAND VOLUME устойчивый гелевый тон 07",
+      "url": "/catalog/makiyazh/guby/karandashi/226495-karandash-dlya-gub-vivienne-sabo-le-grand-volume-ustoychivyy-gelevyy-ton-07/",
+      "bitrixProductId": 1189554,
+      "frisbuyId": 742814,
+      "pricing": {
+       "basePrice": 286,
+       "totalPrice": 286,
+       "priceText": null
+      },
+      "reviews": {
+       "rating": 4.5,
+       "amount": 33
+      },
+      "availability": {
+       "available": true,
+       "availableOnline": false,
+       "quantityOnline": 0,
+       "availableOffline": true,
+       "quantityOffline": 15,
+       "remains": 15,
+       "shopsNumber": 6
+      },
+      "marks": [
+       {
+        "url": "/catalog/mark_msk-pair/",
+        "description": "",
+        "name": "Добавь товары брендов из акции",
+        "title": "%*",
+        "type": "pair",
+        "img": "",
+        "mobileCode": "msk-pair",
+        "hex": "#FF78B2"
+       }
+      ],
+      "promotions": [],
+      "partPaymentPrice": null,
+      "attributes": {
+       "tone": {
+        "name": "Тон",
+        "filterValue": "tone_226495",
+        "value": "Тон 07/ коричнево-розовый"
+       },
+       "brand": {
+        "name": "Бренд",
+        "filterValue": "brand_vivienne_sabo",
+        "value": "VIVIENNE SABO"
+       }
+      }
+     },
+     {
+      "article": "202695",
+      "name": "Карандаш для губ `VIVIENNE SABO` LE GRAND VOLUME устойчивый гелевый тон 02",
+      "url": "/catalog/makiyazh/guby/karandashi/202695-karandash-dlya-gub-vivienne-sabo-le-grand-volume-ustoychivyy-gelevyy-ton-02/",
+      "bitrixProductId": 647114,
+      "frisbuyId": 742814,
+      "pricing": {
+       "basePrice": 403,
+       "totalPrice": 403,
+       "priceText": null
+      },
+      "reviews": {
+       "rating": 4.5,
+       "amount": 33
+      },
+      "availability": {
+       "available": true,
+       "availableOnline": true,
+       "quantityOnline": 40,
+       "availableOffline": true,
+       "quantityOffline": 32,
+       "remains": 72,
+       "shopsNumber": 10
+      },
+      "marks": [
+       {
+        "url": "/catalog/mark_msk-pair/",
+        "description": "",
+        "name": "Добавь товары брендов из акции",
+        "title": "%*",
+        "type": "pair",
+        "img": "",
+        "mobileCode": "msk-pair",
+        "hex": "#FF78B2"
+       }
+      ],
+      "promotions": [],
+      "partPaymentPrice": {
+       "sum": 100.75,
+       "monthQuantity": 4
+      },
+      "attributes": {
+       "tone": {
+        "name": "Тон",
+        "filterValue": "tone_202695",
+        "value": "Тон 02/Теплый нюд"
+       },
+       "brand": {
+        "name": "Бренд",
+        "filterValue": "brand_vivienne_sabo",
+        "value": "VIVIENNE SABO"
+       }
+      }
+     },
+     {
+      "article": "202694",
+      "name": "Карандаш для губ `VIVIENNE SABO` LE GRAND VOLUME устойчивый гелевый тон 01",
+      "url": "/catalog/makiyazh/guby/karandashi/202694-karandash-dlya-gub-vivienne-sabo-le-grand-volume-ustoychivyy-gelevyy-ton-01/",
+      "bitrixProductId": 647138,
+      "frisbuyId": 742814,
+      "pricing": {
+       "basePrice": 403,
+       "totalPrice": 403,
+       "priceText": null
+      },
+      "reviews": {
+       "rating": 4.5,
+       "amount": 33
+      },
+      "availability": {
+       "available": true,
+       "availableOnline": true,
+       "quantityOnline": 32,
+       "availableOffline": true,
+       "quantityOffline": 24,
+       "remains": 56,
+       "shopsNumber": 6
+      },
+      "marks": [
+       {
+        "url": "/catalog/mark_msk-pair/",
+        "description": "",
+        "name": "Добавь товары брендов из акции",
+        "title": "%*",
+        "type": "pair",
+        "img": "",
+        "mobileCode": "msk-pair",
+        "hex": "#FF78B2"
+       }
+      ],
+      "promotions": [],
+      "partPaymentPrice": {
+       "sum": 100.75,
+       "monthQuantity": 4
+      },
+      "attributes": {
+       "tone": {
+        "name": "Тон",
+        "filterValue": "tone_202694",
+        "value": "Тон 01/ Светлый нюд"
+       },
+       "brand": {
+        "name": "Бренд",
+        "filterValue": "brand_vivienne_sabo",
+        "value": "VIVIENNE SABO"
+       }
+      }
+     }
+    ]
+   },
+   {
+    "article": "101103",
+    "name": "Тушь для ресниц `VIVIENNE SABO` CABARET PREMIERE тон 01 черная суперобъемная",
+    "description": "Самая яркая премьера. \nСенсационная и самая нашумевшая премьера в декоративной к",
+    "url": "/catalog/makiyazh/glaza/tush/101103-tush_dlya_resnits_vivienne_sabo_cabaret_premiere_superobemnaya_ton_01_chernaya/",
+    "sort": 1045,
+    "favorite": false,
+    "bitrixProductId": 53944,
+    "bitrixSection": {
+     "id": 948,
+     "url": "/catalog/category_makiyazh-glaza-tush/",
+     "name": "Тушь",
+     "code": "tush",
+     "namePath": "Макияж/Глаза/Тушь"
+    },
+    "frisbuyId": 1115002,
+    "pricing": {
+     "basePrice": 396,
+     "totalPrice": 396,
+     "priceText": ""
+    },
+    "reviews": {
+     "rating": 4.3,
+     "amount": 154
+    },
+    "attributes": {
+     "part": {
+      "name": "Область использования",
+      "filterValue": "area_of_use_glaza",
+      "value": "Глаза",
+      "url": "/catalog/area_of_use_glaza/"
+     },
+     "section": [
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_makiyazh",
+       "value": "Макияж",
+       "img": "/upload/iblock/791/79184c9df7870950e39b11a7548e652f.png",
+       "url": "/catalog/category_makiyazh/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_makiyazh-glaza",
+       "value": "Глаза",
+       "img": "/upload/iblock/941/941fb05a13865e0033db831fe9dd1e4e.png",
+       "url": "/catalog/category_makiyazh-glaza/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_makiyazh-glaza-tush",
+       "value": "Тушь",
+       "img": "/upload/iblock/7c5/7c53a9923dcc04b79d27e05a06d508ed.png",
+       "url": "/catalog/category_makiyazh-glaza-tush/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_korea",
+       "value": "Корея",
+       "img": "/upload/iblock/cd7/cd7c00932d93223e79740f38a1621bfa.png",
+       "url": "/catalog/category_korea/"
+      }
+     ],
+     "skin": null,
+     "weight": {
+      "name": "Вес в упаковке, г.",
+      "filterValue": null,
+      "value": "21",
+      "url": null
+     },
+     "height": {
+      "name": "Высота упаковки, мм",
+      "filterValue": null,
+      "value": "18",
+      "url": null
+     },
+     "width": {
+      "name": "Ширина упаковки, мм",
+      "filterValue": null,
+      "value": "19",
+      "url": null
+     },
+     "length": {
+      "name": "Длина упаковки, мм",
+      "filterValue": null,
+      "value": "107",
+      "url": null
+     },
+     "country": {
+      "name": "Страна",
+      "filterValue": "country_italy",
+      "value": "Италия",
+      "url": "/catalog/country_italy/"
+     },
+     "texture": {
+      "name": "Текстура",
+      "filterValue": "texture_kremoobraznaya",
+      "value": "Кремообразная",
+      "url": "/catalog/texture_kremoobraznaya/"
+     },
+     "composition": {
+      "name": "Состав",
+      "filterValue": null,
+      "value": "AQUA (WATER), SYNTHETIC BEESWAX, PARAFFIN, ACACIA SENEGAL GUM, STEARIC ACID, TRIETHANOLAMINE, PALMITIC ACID, POLYBUTENE,",
+      "url": null
+     },
+     "instruction": {
+      "name": "Способ применения",
+      "filterValue": null,
+      "value": "Тушь Cabaret Premiere наносите зигзагообразными движениями от корней ресниц до кончиков. Щеточкой прокрашивайте каждый в",
+      "url": null
+     },
+     "tone": {
+      "name": "Тон",
+      "filterValue": "tone_101103",
+      "value": "Тон Тон 01 черный",
+      "url": "/catalog/tone_101103/"
+     },
+     "marking": null,
+     "tag": null,
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_vivienne_sabo",
+      "value": "VIVIENNE SABO",
+      "url": "/catalog/brand_vivienne_sabo/"
+     }
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": true,
+     "quantityOnline": 319,
+     "availableOffline": true,
+     "quantityOffline": 72,
+     "remains": 391,
+     "shopsNumber": 9
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-pair/",
+      "description": "",
+      "name": "Добавь товары брендов из акции",
+      "title": "%*",
+      "type": "pair",
+      "img": "",
+      "mobileCode": "msk-pair",
+      "hex": "#FF78B2"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": {
+     "sum": 99,
+     "monthQuantity": 4
+    },
+    "offers": [
+     {
+      "article": "118246",
+      "name": "Тушь для ресниц `VIVIENNE SABO` CABARET PREMIERE тон 04 фиолетовая суперобъемная",
+      "url": "/catalog/makiyazh/glaza/tush/118246-tush_dlya_resnits_vivienne_sabo_cabaret_premiere_ton_04_fioletovaya_superobemnaya/",
+      "bitrixProductId": 9535,
+      "frisbuyId": 1115002,
+      "pricing": {
+       "basePrice": 407,
+       "totalPrice": 407,
+       "priceText": null
+      },
+      "reviews": {
+       "rating": 4.3,
+       "amount": 154
+      },
+      "availability": {
+       "available": true,
+       "availableOnline": true,
+       "quantityOnline": 12,
+       "availableOffline": true,
+       "quantityOffline": 10,
+       "remains": 22,
+       "shopsNumber": 5
+      },
+      "marks": [
+       {
+        "url": "/catalog/mark_msk-pair/",
+        "description": "",
+        "name": "Добавь товары брендов из акции",
+        "title": "%*",
+        "type": "pair",
+        "img": "",
+        "mobileCode": "msk-pair",
+        "hex": "#FF78B2"
+       }
+      ],
+      "promotions": [],
+      "partPaymentPrice": {
+       "sum": 101.75,
+       "monthQuantity": 4
+      },
+      "attributes": {
+       "tone": {
+        "name": "Тон",
+        "filterValue": "tone_118246",
+        "value": "Тон 04 фиолетовый"
+       },
+       "brand": {
+        "name": "Бренд",
+        "filterValue": "brand_vivienne_sabo",
+        "value": "VIVIENNE SABO"
+       }
+      }
+     },
+     {
+      "article": "118244",
+      "name": "Тушь для ресниц `VIVIENNE SABO` CABARET PREMIERE тон 02 ярко-синяя суперобъемная",
+      "url": "/catalog/makiyazh/glaza/tush/118244-tush_dlya_resnits_vivienne_sabo_cabaret_premiere_ton_02_yarko_sinyaya_superobemnaya/",
+      "bitrixProductId": 22567,
+      "frisbuyId": 1115002,
+      "pricing": {
+       "basePrice": 308,
+       "totalPrice": 308,
+       "priceText": null
+      },
+      "reviews": {
+       "rating": 4.3,
+       "amount": 154
+      },
+      "availability": {
+       "available": true,
+       "availableOnline": true,
+       "quantityOnline": 88,
+       "availableOffline": true,
+       "quantityOffline": 52,
+       "remains": 140,
+       "shopsNumber": 8
+      },
+      "marks": [
+       {
+        "url": "/catalog/mark_msk-pair/",
+        "description": "",
+        "name": "Добавь товары брендов из акции",
+        "title": "%*",
+        "type": "pair",
+        "img": "",
+        "mobileCode": "msk-pair",
+        "hex": "#FF78B2"
+       }
+      ],
+      "promotions": [],
+      "partPaymentPrice": {
+       "sum": 77,
+       "monthQuantity": 4
+      },
+      "attributes": {
+       "tone": {
+        "name": "Тон",
+        "filterValue": "tone_118244",
+        "value": "Тон 02 ярко-синий"
+       },
+       "brand": {
+        "name": "Бренд",
+        "filterValue": "brand_vivienne_sabo",
+        "value": "VIVIENNE SABO"
+       }
+      }
+     },
+     {
+      "article": "124356",
+      "name": "Тушь для ресниц `VIVIENNE SABO` CABARET PREMIERE тон 05 коричневая",
+      "url": "/catalog/makiyazh/glaza/tush/124356-tush_dlya_resnits_vivienne_sabo_cabaret_premiere_ton_05_korichnevaya/",
+      "bitrixProductId": 48560,
+      "frisbuyId": 1115002,
+      "pricing": {
+       "basePrice": 283,
+       "totalPrice": 283,
+       "priceText": null
+      },
+      "reviews": {
+       "rating": 4.3,
+       "amount": 154
+      },
+      "availability": {
+       "available": true,
+       "availableOnline": true,
+       "quantityOnline": 526,
+       "availableOffline": true,
+       "quantityOffline": 107,
+       "remains": 633,
+       "shopsNumber": 12
+      },
+      "marks": [
+       {
+        "url": "/catalog/mark_msk-pair/",
+        "description": "",
+        "name": "Добавь товары брендов из акции",
+        "title": "%*",
+        "type": "pair",
+        "img": "",
+        "mobileCode": "msk-pair",
+        "hex": "#FF78B2"
+       }
+      ],
+      "promotions": [],
+      "partPaymentPrice": null,
+      "attributes": {
+       "tone": {
+        "name": "Тон",
+        "filterValue": "tone_124356",
+        "value": "Тон 05 / Коричневый"
+       },
+       "brand": {
+        "name": "Бренд",
+        "filterValue": "brand_vivienne_sabo",
+        "value": "VIVIENNE SABO"
+       }
+      }
+     }
+    ]
+   },
+   {
+    "article": "251363",
+    "name": "Тушь для ресниц `INFLUENCE BEAUTY` MANIPULA тон 01 black",
+    "description": "Термостойкая тушь для ресниц MANIPULA от INFLUENCE BEAUTY сочетает в себе три ин",
+    "url": "/catalog/makiyazh/glaza/tush/251363-tush-dlya-resnits-influence-beauty-manipula-ton-01-black/",
+    "sort": 955,
+    "favorite": false,
+    "bitrixProductId": 1396650,
+    "bitrixSection": {
+     "id": 948,
+     "url": "/catalog/category_makiyazh-glaza-tush/",
+     "name": "Тушь",
+     "code": "tush",
+     "namePath": "Макияж/Глаза/Тушь"
+    },
+    "frisbuyId": 1474379,
+    "pricing": {
+     "basePrice": 599,
+     "totalPrice": 599,
+     "priceText": ""
+    },
+    "reviews": {
+     "rating": 4.3,
+     "amount": 27
+    },
+    "attributes": {
+     "part": {
+      "name": "Область использования",
+      "filterValue": "area_of_use_glaza",
+      "value": "Глаза",
+      "url": "/catalog/area_of_use_glaza/"
+     },
+     "section": [
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_makiyazh",
+       "value": "Макияж",
+       "img": "/upload/iblock/791/79184c9df7870950e39b11a7548e652f.png",
+       "url": "/catalog/category_makiyazh/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_makiyazh-glaza",
+       "value": "Глаза",
+       "img": "/upload/iblock/941/941fb05a13865e0033db831fe9dd1e4e.png",
+       "url": "/catalog/category_makiyazh-glaza/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_makiyazh-glaza-tush",
+       "value": "Тушь",
+       "img": "/upload/iblock/7c5/7c53a9923dcc04b79d27e05a06d508ed.png",
+       "url": "/catalog/category_makiyazh-glaza-tush/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_korea",
+       "value": "Корея",
+       "img": "/upload/iblock/cd7/cd7c00932d93223e79740f38a1621bfa.png",
+       "url": "/catalog/category_korea/"
+      }
+     ],
+     "skin": null,
+     "weight": {
+      "name": "Вес в упаковке, г.",
+      "filterValue": null,
+      "value": "34",
+      "url": null
+     },
+     "height": {
+      "name": "Высота упаковки, мм",
+      "filterValue": null,
+      "value": "174",
+      "url": null
+     },
+     "width": {
+      "name": "Ширина упаковки, мм",
+      "filterValue": null,
+      "value": "28",
+      "url": null
+     },
+     "length": {
+      "name": "Длина упаковки, мм",
+      "filterValue": null,
+      "value": "28",
+      "url": null
+     },
+     "country": {
+      "name": "Страна",
+      "filterValue": "country_china",
+      "value": "Китай",
+      "url": "/catalog/country_china/"
+     },
+     "texture": {
+      "name": "Текстура",
+      "filterValue": "texture_kremoobraznaya",
+      "value": "Кремообразная",
+      "url": "/catalog/texture_kremoobraznaya/"
+     },
+     "composition": {
+      "name": "Состав",
+      "filterValue": null,
+      "value": "WATER, ACRYLATES COPOLYMER, COPERNICIA CERIFERA (CARNAUBA) WAX, STEARIC ACID, BUTYLENE GLYCOL, CERA ALBA, TRIETHANOLAMIN",
+      "url": null
+     },
+     "instruction": {
+      "name": "Способ применения",
+      "filterValue": null,
+      "value": "Зигзагообразными движениям прокрашивайте реснички от внутреннего уголка к внешнему. При необходимости наносите в 2-3 сло",
+      "url": null
+     },
+     "tone": {
+      "name": "Тон",
+      "filterValue": "tone_251363",
+      "value": "Тон 01/черный",
+      "url": "/catalog/tone_251363/"
+     },
+     "marking": null,
+     "tag": null,
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_influence_beauty",
+      "value": "INFLUENCE BEAUTY",
+      "url": "/catalog/brand_influence_beauty/"
+     }
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": true,
+     "quantityOnline": 176,
+     "availableOffline": true,
+     "quantityOffline": 37,
+     "remains": 213,
+     "shopsNumber": 8
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-pair/",
+      "description": "",
+      "name": "Добавь товары брендов из акции",
+      "title": "%*",
+      "type": "pair",
+      "img": "",
+      "mobileCode": "msk-pair",
+      "hex": "#FF78B2"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": {
+     "sum": 149.75,
+     "monthQuantity": 4
+    },
+    "offers": [
+     {
+      "article": "260191",
+      "name": "Тушь для ресниц `INFLUENCE BEAUTY` MANIPULA тон 02 Infra brown",
+      "url": "/catalog/makiyazh/glaza/tush/260191-tush-dlya-resnits-influence-beauty-manipula-ton-02-infra-brown/",
+      "bitrixProductId": 1471307,
+      "frisbuyId": 1474379,
+      "pricing": {
+       "basePrice": 599,
+       "totalPrice": 599,
+       "priceText": null
+      },
+      "reviews": {
+       "rating": 4.3,
+       "amount": 27
+      },
+      "availability": {
+       "available": true,
+       "availableOnline": true,
+       "quantityOnline": 51,
+       "availableOffline": true,
+       "quantityOffline": 21,
+       "remains": 72,
+       "shopsNumber": 10
+      },
+      "marks": [
+       {
+        "url": "/catalog/mark_msk-pair/",
+        "description": "",
+        "name": "Добавь товары брендов из акции",
+        "title": "%*",
+        "type": "pair",
+        "img": "",
+        "mobileCode": "msk-pair",
+        "hex": "#FF78B2"
+       }
+      ],
+      "promotions": [],
+      "partPaymentPrice": {
+       "sum": 149.75,
+       "monthQuantity": 4
+      },
+      "attributes": {
+       "tone": {
+        "name": "Тон",
+        "filterValue": "tone_260191",
+        "value": "Тон 02/Infra Brown (медный коричневый)"
+       },
+       "brand": {
+        "name": "Бренд",
+        "filterValue": "brand_influence_beauty",
+        "value": "INFLUENCE BEAUTY"
+       }
+      }
+     }
+    ]
+   },
+   {
+    "article": "249554",
+    "name": "Румяна для лица `VIVIENNE SABO` MACARON матовые тон 04 Натурально-розовый",
+    "description": "MACARON — румяна от VIVIENNE SABÓ в четырех оттенках с матовым финишем. Это соче",
+    "url": "/catalog/makiyazh/litso/rumyana/249554-rumyana-dlya-litsa-vivienne-sabo-macaron-matovye-ton-04-naturalno-rozovyy/",
+    "sort": 856,
+    "favorite": false,
+    "bitrixProductId": 1378311,
+    "bitrixSection": {
+     "id": 957,
+     "url": "/catalog/category_makiyazh-litso-rumyana/",
+     "name": "Румяна",
+     "code": "rumyana",
+     "namePath": "Макияж/Лицо/Румяна"
+    },
+    "frisbuyId": 1416301,
+    "pricing": {
+     "basePrice": 322,
+     "totalPrice": 322,
+     "priceText": ""
+    },
+    "reviews": {
+     "rating": 5,
+     "amount": 27
+    },
+    "attributes": {
+     "part": {
+      "name": "Область использования",
+      "filterValue": "area_of_use_litso",
+      "value": "Лицо",
+      "url": "/catalog/area_of_use_litso/"
+     },
+     "section": [
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_makiyazh",
+       "value": "Макияж",
+       "img": "/upload/iblock/791/79184c9df7870950e39b11a7548e652f.png",
+       "url": "/catalog/category_makiyazh/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_makiyazh-litso",
+       "value": "Лицо",
+       "img": "/upload/iblock/a15/a159ca2047da3a115f32b74b12ee7124.png",
+       "url": "/catalog/category_makiyazh-litso/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_makiyazh-litso-rumyana",
+       "value": "Румяна",
+       "img": "/upload/iblock/b2e/b2e5565c9889817b6e1c372bfad0dfc1.png",
+       "url": "/catalog/category_makiyazh-litso-rumyana/"
+      },
+      {
+       "name": "Категории",
+       "description": null,
+       "filterValue": "category_korea",
+       "value": "Корея",
+       "img": "/upload/iblock/cd7/cd7c00932d93223e79740f38a1621bfa.png",
+       "url": "/catalog/category_korea/"
+      }
+     ],
+     "skin": {
+      "name": "Тип кожи",
+      "filterValue": "skin_type_vse-tipy-kozhi",
+      "value": "Все типы кожи",
+      "url": "/catalog/skin_type_vse-tipy-kozhi/"
+     },
+     "weight": {
+      "name": "Вес в упаковке, г.",
+      "filterValue": null,
+      "value": "40",
+      "url": null
+     },
+     "height": {
+      "name": "Высота упаковки, мм",
+      "filterValue": null,
+      "value": "55",
+      "url": null
+     },
+     "width": {
+      "name": "Ширина упаковки, мм",
+      "filterValue": null,
+      "value": "55",
+      "url": null
+     },
+     "length": {
+      "name": "Длина упаковки, мм",
+      "filterValue": null,
+      "value": "15",
+      "url": null
+     },
+     "country": {
+      "name": "Страна",
+      "filterValue": "country_china",
+      "value": "Китай",
+      "url": "/catalog/country_china/"
+     },
+     "texture": {
+      "name": "Текстура",
+      "filterValue": "texture_pudrovaya",
+      "value": "Пудровая",
+      "url": "/catalog/texture_pudrovaya/"
+     },
+     "composition": {
+      "name": "Состав",
+      "filterValue": null,
+      "value": "TALC, MICA, SILICA, DIMETHICONE, MAGNESIUM STEARATE, PHENOXYETHANOL, ALUMINUM HYDROXIDE. +/-: CI 77491, CI 77492, CI 191",
+      "url": null
+     },
+     "instruction": {
+      "name": "Способ применения",
+      "filterValue": null,
+      "value": "Наноси на щеки пушистой объемной кистью легкими круговыми  движениями. Для трендового образа также можешь нанести румяна",
+      "url": null
+     },
+     "tone": {
+      "name": "Тон",
+      "filterValue": "tone_249554",
+      "value": "тон 04 Натурально-розовый",
+      "url": "/catalog/tone_249554/"
+     },
+     "marking": null,
+     "tag": null,
+     "brand": {
+      "name": "Бренд",
+      "filterValue": "brand_vivienne_sabo",
+      "value": "VIVIENNE SABO",
+      "url": "/catalog/brand_vivienne_sabo/"
+     }
+    },
+    "availability": {
+     "available": true,
+     "availableOnline": true,
+     "quantityOnline": 47,
+     "availableOffline": true,
+     "quantityOffline": 36,
+     "remains": 83,
+     "shopsNumber": 8
+    },
+    "marks": [
+     {
+      "url": "/catalog/mark_msk-pair/",
+      "description": "",
+      "name": "Добавь товары брендов из акции",
+      "title": "%*",
+      "type": "pair",
+      "img": "",
+      "mobileCode": "msk-pair",
+      "hex": "#FF78B2"
+     }
+    ],
+    "promotions": [],
+    "partPaymentPrice": {
+     "sum": 80.5,
+     "monthQuantity": 4
+    },
+    "offers": [
+     {
+      "article": "249553",
+      "name": "Румяна для лица `VIVIENNE SABO` MACARON матовые тон 03 Нежно-розовый",
+      "url": "/catalog/makiyazh/litso/rumyana/249553-rumyana-dlya-litsa-vivienne-sabo-macaron-matovye-ton-03-nezhno-rozovyy/",
+      "bitrixProductId": 1378320,
+      "frisbuyId": 1416301,
+      "pricing": {
+       "basePrice": 322,
+       "totalPrice": 322,
+       "priceText": null
+      },
+      "reviews": {
+       "rating": 5,
+       "amount": 27
+      },
+      "availability": {
+       "available": true,
+       "availableOnline": true,
+       "quantityOnline": 29,
+       "availableOffline": true,
+       "quantityOffline": 36,
+       "remains": 65,
+       "shopsNumber": 11
+      },
+      "marks": [
+       {
+        "url": "/catalog/mark_msk-pair/",
+        "description": "",
+        "name": "Добавь товары брендов из акции",
+        "title": "%*",
+        "type": "pair",
+        "img": "",
+        "mobileCode": "msk-pair",
+        "hex": "#FF78B2"
+       }
+      ],
+      "promotions": [],
+      "partPaymentPrice": {
+       "sum": 80.5,
+       "monthQuantity": 4
+      },
+      "attributes": {
+       "tone": {
+        "name": "Тон",
+        "filterValue": "tone_249553",
+        "value": "Тон 03/нежно-розовый"
+       },
+       "brand": {
+        "name": "Бренд",
+        "filterValue": "brand_vivienne_sabo",
+        "value": "VIVIENNE SABO"
+       }
+      }
+     },
+     {
+      "article": "249552",
+      "name": "Румяна для лица `VIVIENNE SABO` MACARON матовые тон 02 Холодно-розовый",
+      "url": "/catalog/makiyazh/litso/rumyana/249552-rumyana-dlya-litsa-vivienne-sabo-macaron-matovye-ton-02-kholodno-rozovyy/",
+      "bitrixProductId": 1378334,
+      "frisbuyId": 1416301,
+      "pricing": {
+       "basePrice": 322,
+       "totalPrice": 322,
+       "priceText": null
+      },
+      "reviews": {
+       "rating": 5,
+       "amount": 27
+      },
+      "availability": {
+       "available": true,
+       "availableOnline": true,
+       "quantityOnline": 14,
+       "availableOffline": true,
+       "quantityOffline": 26,
+       "remains": 40,
+       "shopsNumber": 10
+      },
+      "marks": [
+       {
+        "url": "/catalog/mark_msk-pair/",
+        "description": "",
+        "name": "Добавь товары брендов из акции",
+        "title": "%*",
+        "type": "pair",
+        "img": "",
+        "mobileCode": "msk-pair",
+        "hex": "#FF78B2"
+       }
+      ],
+      "promotions": [],
+      "partPaymentPrice": {
+       "sum": 80.5,
+       "monthQuantity": 4
+      },
+      "attributes": {
+       "tone": {
+        "name": "Тон",
+        "filterValue": "tone_249552",
+        "value": "Тон 02/холодный розовый"
+       },
+       "brand": {
+        "name": "Бренд",
+        "filterValue": "brand_vivienne_sabo",
+        "value": "VIVIENNE SABO"
+       }
+      }
+     },
+     {
+      "article": "249551",
+      "name": "Румяна для лица `VIVIENNE SABO` MACARON матовые тон 01 Персиковый",
+      "url": "/catalog/makiyazh/litso/rumyana/249551-rumyana-dlya-litsa-vivienne-sabo-macaron-matovye-ton-01-persikovyy/",
+      "bitrixProductId": 1378341,
+      "frisbuyId": 1416301,
+      "pricing": {
+       "basePrice": 322,
+       "totalPrice": 322,
+       "priceText": null
+      },
+      "reviews": {
+       "rating": 5,
+       "amount": 27
+      },
+      "availability": {
+       "available": true,
+       "availableOnline": true,
+       "quantityOnline": 22,
+       "availableOffline": true,
+       "quantityOffline": 48,
+       "remains": 70,
+       "shopsNumber": 11
+      },
+      "marks": [
+       {
+        "url": "/catalog/mark_msk-pair/",
+        "description": "",
+        "name": "Добавь товары брендов из акции",
+        "title": "%*",
+        "type": "pair",
+        "img": "",
+        "mobileCode": "msk-pair",
+        "hex": "#FF78B2"
+       }
+      ],
+      "promotions": [],
+      "partPaymentPrice": {
+       "sum": 80.5,
+       "monthQuantity": 4
+      },
+      "attributes": {
+       "tone": {
+        "name": "Тон",
+        "filterValue": "tone_249551",
+        "value": "Тон 01/персиковый"
+       },
+       "brand": {
+        "name": "Бренд",
+        "filterValue": "brand_vivienne_sabo",
+        "value": "VIVIENNE SABO"
+       }
+      }
+     }
+    ]
+   }
+  ],
+  "navigation": {
+   "totalOffersCount": 1312,
+   "totalPagesCount": 66,
+   "pageSize": 20,
+   "currentPage": 1
+  }
+ },
+ "urls": {
+  "site": "/catalog/promotion_gradient_sep2026/",
+  "api": {
+   "filter": "/api/v3/catalog/promotion_gradient_sep2026/filter",
+   "listing": "/api/v3/catalog/promotion_gradient_sep2026/listing",
+   "seo": "/api/v3/catalog/promotion_gradient_sep2026/seo"
+  },
+  "redirect": null
+ },
+ "redirectUrl": null,
+ "timings": {
+  "summary": 1.0111439228058
+ }
+}
